@@ -2,13 +2,13 @@
 
 ### 🚹 Basic Information
 
-- 🔭 I’m currently working for [Appwrite](https://github.com/appwrite/appwrite)
-- 🌱 I’m currently learning to write articles
-- 👯 I’m looking to collaborate on any fun side project
-- 🤔 I’m looking for help with scalable infrastructures
+- 🔭 I'm currently working for [Appwrite](https://github.com/appwrite/appwrite)
+- 🌱 I'm currently learning to write articles
+- 👯 I'm looking to collaborate on any fun side project
+- 🤔 I'm looking for help with scalable infrastructures
 - 💬 Ask me about my blog
 - 📫 Reach me at matejbaco2000@gmail.com
-- ⚡ Fun fact: I love light mode
+- ⚡ Fun fact: I love the **light mode**
 
 ### 📘 Latest Blog Posts
 
@@ -19,7 +19,7 @@
 - [Backing up Appwrite to Backblaze](https://dev.to/meldiron/backup-appwrite-to-backblaze-476n)
 <!-- BLOG-POST-LIST:END -->
 
-### Languages and Tools:
+### 🔧 Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
