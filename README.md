@@ -2,7 +2,7 @@
 
 ### 🚹 Basic Information
 
-- 🔭 I'm currently working for [Appwrite](https://github.com/appwrite/appwrite)
+- 🔭 I'm currently working as a freelancer
 - 🌱 I'm currently learning to write articles
 - 👯 I'm looking to collaborate on any fun side project
 - 🤔 I'm looking for help with scalable infrastructures
