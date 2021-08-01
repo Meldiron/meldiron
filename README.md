@@ -13,6 +13,7 @@
 ### 📘 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [⚡ Speed-up your web with Blurhash](https://dev.to/meldiron/speed-up-your-web-with-blurhash-3mi8)
 - [8 reasons to fall in ❤️ with Appwrite](https://dev.to/meldiron/8-reasons-to-fall-in-with-appwrite-29ib)
 - [Appwrite with Angular SSR](https://dev.to/meldiron/appwrite-with-angular-ssr-ph)
 - [Backing up Appwrite to Backblaze](https://dev.to/meldiron/backup-appwrite-to-backblaze-476n)
