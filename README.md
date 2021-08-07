@@ -13,6 +13,7 @@
 ### 📘 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Faker.js Generator - Never write sample data manually again ⌛](https://dev.to/meldiron/faker-js-generator-never-write-sample-data-manually-again-57ba)
 - [⚡ Speed-up your web with Blurhash](https://dev.to/meldiron/speed-up-your-web-with-blurhash-3mi8)
 - [8 reasons to fall in ❤️ with Appwrite](https://dev.to/meldiron/8-reasons-to-fall-in-with-appwrite-29ib)
 - [Appwrite with Angular SSR](https://dev.to/meldiron/appwrite-with-angular-ssr-ph)
