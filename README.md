@@ -1,5 +1,7 @@
 # Hey there 👋
 
+To find out more about me, check out my [ReadCV](https://read.cv/meldiron2000)
+
 ### 🚹 Basic Information
 
 - 🔭 I'm currently working as a freelancer
