@@ -12,6 +12,12 @@ To find out more about me, check out my [ReadCV](https://read.cv/meldiron2000)
 - 📫 Reach me at matejbaco2000@gmail.com
 - ⚡ Fun fact: I love the **light mode**
 
+### ⭐ My most amazing repositories
+
+- [💻 Monitor Ink - Website monitoring](https://github.com/Meldiron/monitor-ink)
+- [😎 Faker.JS JSON generator](https://github.com/Meldiron/faker-generator)
+- [🎨 Blurhash Angular Demo](https://github.com/Meldiron/blurhash-angular-demo)
+
 ### 📘 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
