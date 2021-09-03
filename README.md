@@ -4,7 +4,7 @@ To find out more about me, check out my [ReadCV](https://read.cv/meldiron2000)
 
 ### 🚹 Basic Information
 
-- 🔭 I'm currently working as a freelancer
+- 🔭 I'm currently working at [Appwrite](https://appwrite.io/)
 - 🌱 I'm currently learning to write articles
 - 👯 I'm looking to collaborate on any fun side project
 - 🤔 I'm looking for help with scalable infrastructures
@@ -14,6 +14,7 @@ To find out more about me, check out my [ReadCV](https://read.cv/meldiron2000)
 
 ### ⭐ My most amazing repositories
 
+- [🍪 Cookie Clicker made with Appwrite](https://github.com/Meldiron/cookie-clicker-using-appwrie)
 - [💻 Monitor Ink - Website monitoring](https://github.com/Meldiron/monitor-ink)
 - [😎 Faker.JS JSON generator](https://github.com/Meldiron/faker-generator)
 - [🎨 Blurhash Angular Demo](https://github.com/Meldiron/blurhash-angular-demo)
