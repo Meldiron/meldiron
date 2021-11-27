@@ -14,10 +14,13 @@ To find out more about me, check out my [ReadCV](https://read.cv/meldiron2000)
 
 ### ⭐ My most amazing repositories
 
-- [🍪 Cookie Clicker made with Appwrite](https://github.com/Meldiron/cookie-clicker-using-appwrie)
-- [💻 Monitor Ink - Website monitoring](https://github.com/Meldiron/monitor-ink)
 - [😎 Faker.JS JSON generator](https://github.com/Meldiron/faker-generator)
+- [⚡ Appwrite realtime playground](https://github.com/Meldiron/realtime-playground-appwrite)
+- [🤝 Appwrite + Appsmith](https://github.com/Meldiron/appwrite-appsmith-demo)
 - [🎨 Blurhash Angular Demo](https://github.com/Meldiron/blurhash-angular-demo)
+- [🧊 Node SlimeFormat](https://github.com/Meldiron/node-swm)
+- [💻 Monitor Ink - Website monitoring](https://github.com/Meldiron/monitor-ink)
+- [🍪 Cookie Clicker made with Appwrite](https://github.com/Meldiron/cookie-clicker-using-appwrie)
 
 ### 📘 Latest Blog Posts
 
