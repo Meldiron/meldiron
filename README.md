@@ -25,11 +25,11 @@ To find out more about me, check out my [ReadCV](https://read.cv/meldiron2000)
 ### 📘 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The best database pagination technique is ...](https://dev.to/appwrite/this-is-why-you-should-use-cursor-pagination-4nh5)
 - [Faker.js Generator - Never write sample data manually again ⌛](https://dev.to/meldiron/faker-js-generator-never-write-sample-data-manually-again-57ba)
 - [⚡ Speed-up your web with Blurhash](https://dev.to/meldiron/speed-up-your-web-with-blurhash-3mi8)
 - [8 reasons to fall in ❤️ with Appwrite](https://dev.to/meldiron/8-reasons-to-fall-in-with-appwrite-29ib)
 - [Appwrite with Angular SSR](https://dev.to/meldiron/appwrite-with-angular-ssr-ph)
-- [Backing up Appwrite to Backblaze](https://dev.to/meldiron/backup-appwrite-to-backblaze-476n)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔧 Languages and Tools:
