@@ -25,11 +25,11 @@ To find out more about me, check out my [ReadCV](https://read.cv/meldiron2000)
 ### 📘 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Almost Netflix: Netflix clone built with Vue and Appwrite](https://dev.to/appwrite/introducing-almost-netflix-a-netflix-clone-built-with-vue-and-appwrite-34nb)
 - [Did we just build a Netflix clone with Appwrite?](https://dev.to/appwrite/did-we-just-build-a-netflix-clone-with-appwrite-28ok)
 - [The best database pagination technique is ...](https://dev.to/appwrite/this-is-why-you-should-use-cursor-pagination-4nh5)
 - [Faker.js Generator - Never write sample data manually again ⌛](https://dev.to/meldiron/faker-js-generator-never-write-sample-data-manually-again-57ba)
 - [⚡ Speed-up your web with Blurhash](https://dev.to/meldiron/speed-up-your-web-with-blurhash-3mi8)
-- [8 reasons to fall in ❤️ with Appwrite](https://dev.to/meldiron/8-reasons-to-fall-in-with-appwrite-29ib)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔧 Languages and Tools:
