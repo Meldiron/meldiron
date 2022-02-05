@@ -1,6 +1,6 @@
 # Hey there 👋
 
-To find out more about me, check out my [ReadCV](https://read.cv/meldiron2000)
+To find out more about me, check out my [ReadCV](https://read.cv/meldiron2000) and [Portfolio](https://matejbaco.eu/).
 
 ### 🚹 Basic Information
 
