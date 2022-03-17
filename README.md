@@ -25,11 +25,11 @@ To find out more about me, check out my [ReadCV](https://read.cv/meldiron2000) a
 ### 📘 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Start selling online using Appwrite and Stripe](https://dev.to/appwrite/start-selling-online-using-appwrite-and-stripe-3l04)
 - [Scale Appwrite Storage with DigitalOcean Spaces](https://dev.to/appwrite/scale-appwrite-storage-with-digitalocean-spaces-36kh)
 - [Appwrite Storage meets limitless S3](https://dev.to/appwrite/appwrite-storage-meets-limitless-s3-1g89)
 - [Introducing Almost Netflix: Netflix clone built with Vue and Appwrite](https://dev.to/appwrite/introducing-almost-netflix-a-netflix-clone-built-with-vue-and-appwrite-34nb)
 - [Did we just build a Netflix clone with Appwrite?](https://dev.to/appwrite/did-we-just-build-a-netflix-clone-with-appwrite-28ok)
-- [The best database pagination technique is ...](https://dev.to/appwrite/this-is-why-you-should-use-cursor-pagination-4nh5)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔧 My Skills
