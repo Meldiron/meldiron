@@ -14,6 +14,8 @@ To find out more about me, check out my [ReadCV](https://read.cv/meldiron2000) a
 
 ### ⭐ My most amazing repositories
 
+- [🏎️ TMStats](https://github.com/Meldiron/tmstats)
+- [🎨 Almost Reddit Place](https://github.com/Meldiron/almost-reddit-place)
 - [😎 Faker.JS JSON generator](https://github.com/Meldiron/faker-generator)
 - [⚡ Appwrite realtime playground](https://github.com/Meldiron/realtime-playground-appwrite)
 - [🤝 Appwrite + Appsmith](https://github.com/Meldiron/appwrite-appsmith-demo)
