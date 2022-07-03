@@ -10,26 +10,33 @@ I am Matej Bačo, an open-minded website developer. To find out more about me, c
 - 📫 Reach me at `matejbaco2000@gmail.com`
 - ⚡ Fun fact: I love the **light mode**
 
-### ⭐ My Amazing Repositories
+### 👑 My Best Project
 
-- [🏎️ TMStats](https://github.com/Meldiron/tmstats)
+[🏎️ TMStats](https://github.com/Meldiron/tmstats)
+
+![Cover](https://raw.githubusercontent.com/Meldiron/tmstats/master/static/cover_tmstats.png)
+
+### ✨ My Awesome Repositories
+
+- [💻 Monitor Ink - Website monitoring](https://github.com/Meldiron/monitor-ink)
+- [🧊 Node SlimeFormat](https://github.com/Meldiron/node-swm)
+- [😎 Faker.JS JSON generator](https://github.com/Meldiron/faker-generator)
+
+---
+
 - [🎨 Almost Reddit Place](https://github.com/Meldiron/almost-reddit-place)
 - [🎰 Almost Casino](https://github.com/Meldiron/almost-casino)
-- [😎 Faker.JS JSON generator](https://github.com/Meldiron/faker-generator)
-- [⚡ Appwrite realtime playground](https://github.com/Meldiron/realtime-playground-appwrite)
-- [🍪 Cookie Clicker made with Appwrite](https://github.com/Meldiron/cookie-clicker-using-appwrie)
-- [🤝 Appwrite + Appsmith](https://github.com/Meldiron/appwrite-appsmith-demo)
-- [🎨 Blurhash Angular Demo](https://github.com/Meldiron/blurhash-angular-demo)
-- [🧊 Node SlimeFormat](https://github.com/Meldiron/node-swm)
-- [💻 Monitor Ink - Website monitoring](https://github.com/Meldiron/monitor-ink)
+- [🍪 Almost Cookie Clicker](https://github.com/Meldiron/cookie-clicker-using-appwrie)
+- [🖱️ Almost Figma](https://github.com/Meldiron/realtime-playground-appwrite)
+- [📰 Almost Reddit](https://github.com/MatusFercak/coddit-app) _(contributor)_
 
-### ✨ My Awesome Contributions
+---
 
-
-- [📬 FormEasy Svelte demo](https://github.com/Meldiron/formeasy-svelte)
-- [🔔 Novu Appwrite demo](https://github.com/Meldiron/appwrite-novu-demo)
-- [📰 Coddit, a Reddit clone](https://github.com/MatusFercak/coddit-app)
-- [♟️ Knight Game, Appwrite game demo](https://github.com/Benji47/knight-game)
+- [🎨 Blurhash & Angular Demo](https://github.com/Meldiron/blurhash-angular-demo)
+- [📬 FormEasy & Svelte Demo](https://github.com/Meldiron/formeasy-svelte)
+- [📊 Appsmith & Appwrite Demo](https://github.com/Meldiron/appwrite-appsmith-demo)
+- [🔔 Novu & Appwrite Demo](https://github.com/Meldiron/appwrite-novu-demo)
+- [♟️ Appwrite Game Demo](https://github.com/Benji47/knight-game)  _(contributor)_
 
 ### 📘 My Stunning Articles
 
