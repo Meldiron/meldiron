@@ -29,7 +29,7 @@ I am Matej Bačo, an open-minded website developer. To find out more about me, c
 - [📬 FormEasy Svelte demo](https://github.com/Meldiron/formeasy-svelte)
 - [🔔 Novu Appwrite demo](https://github.com/Meldiron/appwrite-novu-demo)
 - [📰 Coddit, a Reddit clone](https://github.com/MatusFercak/coddit-app)
-- [♟️ Knight Game, Appwrite game demo](https://github.com/MatusFercak/coddit-app)
+- [♟️ Knight Game, Appwrite game demo](https://github.com/Benji47/knight-game)
 
 ### 📘 My Stunning Articles
 
