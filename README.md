@@ -1,18 +1,16 @@
 # Hey there 👋
 
-To find out more about me, check out my [ReadCV](https://read.cv/meldiron2000) and [Portfolio](https://matejbaco.eu/).
+I am Matej Bačo, an open-minded website developer. To find out more about me, check out my [ReadCV](https://read.cv/meldiron2000) or [Portfolio](https://matejbaco.eu/).
 
 ### 🚹 Basic Information
 
-- 🔭 I'm currently working at [Appwrite](https://appwrite.io/)
-- 🌱 I'm currently learning to write articles
-- 👯 I'm looking to collaborate on any fun side project
-- 🤔 I'm looking for help with scalable infrastructures
-- 💬 Ask me about my blog
-- 📫 Reach me at matejbaco2000@gmail.com
+- 🔭 I work at [Appwrite](https://appwrite.io/)
+- 🌱 I active learn to write articles
+- 👯 I would love to collaborate on any fun side project
+- 📫 Reach me at `matejbaco2000@gmail.com`
 - ⚡ Fun fact: I love the **light mode**
 
-### ⭐ My most amazing repositories
+### ⭐ My Amazing Repositories
 
 - [🏎️ TMStats](https://github.com/Meldiron/tmstats)
 - [🎨 Almost Reddit Place](https://github.com/Meldiron/almost-reddit-place)
@@ -25,7 +23,15 @@ To find out more about me, check out my [ReadCV](https://read.cv/meldiron2000) a
 - [🧊 Node SlimeFormat](https://github.com/Meldiron/node-swm)
 - [💻 Monitor Ink - Website monitoring](https://github.com/Meldiron/monitor-ink)
 
-### 📘 Latest Blog Posts
+### ✨ My Awesome Contributions
+
+
+- [📬 FormEasy Svelte demo](https://github.com/Meldiron/formeasy-svelte)
+- [🔔 Novu Appwrite demo](https://github.com/Meldiron/appwrite-novu-demo)
+- [📰 Coddit, a Reddit clone](https://github.com/MatusFercak/coddit-app)
+- [♟️ Knight Game, Appwrite game demo](https://github.com/MatusFercak/coddit-app)
+
+### 📘 My Stunning Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [Appwrite Hand-In-Hand with Svelte Kit &lpar;SSR&rpar;](https://dev.to/meldiron/appwrite-hand-in-hand-with-svelte-kit-ssr-5097)
