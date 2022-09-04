@@ -27,6 +27,7 @@ I am Matej Bačo, an open-minded website developer. To find out more about me, c
 - [🎨 Almost Reddit Place](https://github.com/Meldiron/almost-reddit-place)
 - [🎰 Almost Casino](https://github.com/Meldiron/almost-casino)
 - [🍪 Almost Cookie Clicker](https://github.com/Meldiron/cookie-clicker-using-appwrie)
+- [🛒 Almost Cookie Store](https://github.com/Meldiron/almost-cookie-store)
 - [🖱️ Almost Figma](https://github.com/Meldiron/realtime-playground-appwrite)
 - [📰 Almost Reddit](https://github.com/MatusFercak/coddit-app) _(contributor)_
 
