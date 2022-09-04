@@ -1,11 +1,11 @@
 # Hey there 👋
 
-I am Matej Bačo, an open-minded website developer. To find out more about me, check out my [ReadCV](https://read.cv/meldiron2000) or [Portfolio](https://matejbaco.eu/).
+I am Matej Bačo, an open-minded software engineer. I love giving to open source as much I love recieving. 🎁
 
 ### 🚹 Basic Information
 
 - 🔭 I work at [Appwrite](https://appwrite.io/)
-- 🌱 I active learn to write articles
+- 🌱 I learn to write articles
 - 👯 I would love to collaborate on any fun side project
 - 📫 Reach me at `matejbaco2000@gmail.com`
 - ⚡ Fun fact: I love the **light mode**
@@ -48,6 +48,14 @@ I am Matej Bačo, an open-minded website developer. To find out more about me, c
 - [Start Selling Online Using Appwrite and Stripe](https://dev.to/appwrite/start-selling-online-using-appwrite-and-stripe-3l04)
 - [Scale Appwrite Storage with DigitalOcean Spaces](https://dev.to/appwrite/scale-appwrite-storage-with-digitalocean-spaces-36kh)
 <!-- BLOG-POST-LIST:END -->
+
+### 🤝 My Open Source Contributions
+
+- 🔥 Over [400 Appwrite contributions](https://github.com/search?q=org%3Aappwrite+org%3Autopia-php+org%3Aopen-runtimes+pr+author%3Ameldiron&type=issues)
+- 🟣 Add Recaptcha validation into FormEasy [#2](https://github.com/Basharath/FormEasy/pull/2)
+- 🟣 Improve camelCase parsing in Swagger JS Codegen [#8](https://github.com/bart-sk/swagger-js-codegen/pull/8)
+- 🟣 Improve CloudNet connections logger [#22](https://github.com/CloudNetService/CloudNet-v3/pull/22)
+- 🟣 Add sneaking support into Mineflayer [#609](https://github.com/PrismarineJS/mineflayer/pull/609)
 
 ### 🔧 My Skills
 
