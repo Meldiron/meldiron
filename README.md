@@ -37,6 +37,7 @@ I am Matej Bačo, an open-minded software engineer. I love giving to open source
 - [📬 FormEasy & Svelte Demo](https://github.com/Meldiron/formeasy-svelte)
 - [📊 Appsmith & Appwrite Demo](https://github.com/Meldiron/appwrite-appsmith-demo)
 - [🔔 Novu & Appwrite Demo](https://github.com/Meldiron/appwrite-novu-demo)
+- [🎧 Spotify & Appwrite Demo](https://github.com/Meldiron/appwrite-spotify)
 - [♟️ Appwrite Game Demo](https://github.com/Benji47/knight-game)  _(contributor)_
 
 ### 📘 My Stunning Articles
