@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I am Matej Bačo, an open-minded software engineer. I love giving to open source as much I love recieving. 🎁
+I am Matej Bačo, an open-minded software engineer. I love giving to open source as much as I love receiving. 🎁
 
 ### 🚹 Basic Information
 
