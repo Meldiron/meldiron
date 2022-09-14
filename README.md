@@ -45,11 +45,11 @@ I am Matej Bačo, an open-minded software engineer. I love giving to open source
 ### 📘 My Stunning Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Go Limitless with New Appwrite Queries](https://dev.to/appwrite/go-limitless-with-new-appwrite-queries-2ajg)
 - [Appwrite Loves Open Source: Why I Chose To Sponsor Offen](https://dev.to/appwrite/appwrite-loves-open-source-why-i-chose-to-sponsor-offen-5efn)
 - [Appwrite Hand-In-Hand with Svelte Kit &lpar;SSR&rpar;](https://dev.to/meldiron/appwrite-hand-in-hand-with-svelte-kit-ssr-5097)
 - [TMStats: Trackmania Tracker](https://dev.to/meldiron/tmstats-trackmania-tracker-1k1a)
 - [Why Discord Is a Must-Have for OSS](https://dev.to/appwrite/why-discord-is-a-must-have-for-oss-2jpj)
-- [Start Selling Online Using Appwrite and Stripe](https://dev.to/appwrite/start-selling-online-using-appwrite-and-stripe-3l04)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🤝 My Open Source Contributions
