@@ -2,6 +2,10 @@
 
 I am Matej Bačo, an open-minded software engineer. I love giving to open source as much as I love receiving. 🎁
 
+<a href="https://makers.appwrite.io/Meldiron">
+    <img width="400" src="https://appwrite.io/cards/makers/Meldiron" alt="Meldiron's Maker Card" />
+</a>
+
 ### 🚹 Basic Information
 
 - 🔭 I work at [Appwrite](https://appwrite.io/)
