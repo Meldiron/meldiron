@@ -22,12 +22,6 @@ I am Matej Bačo, an open-minded software engineer. I love giving to open source
 
 ### ✨ My Awesome Repositories
 
-- [💻 Monitor Ink - Website monitoring](https://github.com/Meldiron/monitor-ink)
-- [🧊 Node SlimeFormat](https://github.com/Meldiron/node-swm)
-- [😎 Faker.JS JSON generator](https://github.com/Meldiron/faker-generator)
-
----
-
 - [💬 Almost Kialo](https://github.com/Meldiron/almost-kialo)
 - [🎬 Almost Netflix](https://github.com/appwrite/demo-almost-netflix-for-web)
 - [🎨 Almost Reddit Place](https://github.com/Meldiron/almost-reddit-place)
@@ -36,6 +30,12 @@ I am Matej Bačo, an open-minded software engineer. I love giving to open source
 - [🛒 Almost Cookie Store](https://github.com/Meldiron/almost-cookie-store)
 - [🖱️ Almost Figma](https://github.com/Meldiron/realtime-playground-appwrite)
 - [📰 Almost Reddit](https://github.com/MatusFercak/coddit-app) _(contributor)_
+
+---
+
+- [💻 Monitor Ink - Website monitoring](https://github.com/Meldiron/monitor-ink)
+- [🧊 Node SlimeFormat](https://github.com/Meldiron/node-swm)
+- [😎 Faker.JS JSON generator](https://github.com/Meldiron/faker-generator)
 
 ---
 
