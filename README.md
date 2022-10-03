@@ -59,6 +59,7 @@ I am Matej Bačo, an open-minded software engineer. I love giving to open source
 ### 🤝 My Open Source Contributions
 
 - 🔥 Over [1500 Appwrite commits](https://github.com/search?o=desc&q=org%3Aappwrite+org%3Autopia-php+org%3Aopen-runtimes+is%3Apr+author%3Ameldiron&s=committer-date&type=Commits)
+- 🟣 Add pagination into Gitstalk [#54](https://github.com/thelittlewonder/gitstalk/pull/54)
 - 🟣 Add Recaptcha validation into FormEasy [#2](https://github.com/Basharath/FormEasy/pull/2)
 - 🟣 Improve camelCase parsing in Swagger JS Codegen [#8](https://github.com/bart-sk/swagger-js-codegen/pull/8)
 - 🟣 Improve CloudNet connections logger [#22](https://github.com/CloudNetService/CloudNet-v3/pull/22)
