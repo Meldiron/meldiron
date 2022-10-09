@@ -22,6 +22,12 @@ I am Matej Bačo, an open-minded software engineer. I love giving to open source
 
 ### ✨ My Awesome Repositories
 
+<!--
+Work in progress:
+- https://github.com/Meldiron/almost-shoutcart
+- https://github.com/Meldiron/almost-gist
+-->
+
 - [💬 Almost Kialo](https://github.com/Meldiron/almost-kialo)
 - [🎬 Almost Netflix](https://github.com/appwrite/demo-almost-netflix-for-web)
 - [🎨 Almost Reddit Place](https://github.com/Meldiron/almost-reddit-place)
