@@ -39,6 +39,7 @@ Work in progress:
 
 ---
 
+- [📖 Syllable Game](https://github.com/Meldiron/syllable-game)
 - [💻 Monitor Ink - Website monitoring](https://github.com/Meldiron/monitor-ink)
 - [🧊 Node SlimeFormat](https://github.com/Meldiron/node-swm)
 - [😎 Faker.JS JSON generator](https://github.com/Meldiron/faker-generator)
