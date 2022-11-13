@@ -22,11 +22,9 @@ I am Matej Bačo, an open-minded software engineer. I love giving to open source
 
 ### ✨ My Awesome Repositories
 
-<!--
-Work in progress:
-- https://github.com/Meldiron/almost-shoutcart
--->
 
+- [⌨️ Almost TypeRacer](https://github.com/Meldiron/almost-typeracer) _(work in progress)_
+- [🗨️ Almost Shoutcart](https://github.com/Meldiron/almost-shoutcart) _(work in progress)_
 - [📄 Almost Gist](https://github.com/Meldiron/almost-gist)
 - [💬 Almost Kialo](https://github.com/Meldiron/almost-kialo)
 - [🎬 Almost Netflix](https://github.com/appwrite/demo-almost-netflix-for-web)
@@ -40,6 +38,8 @@ Work in progress:
 ---
 
 - [📖 Syllable Game](https://github.com/Meldiron/syllable-game)
+- [🏗️ Appwrite CMS](https://github.com/Meldiron/appwrite-cms)
+- [🚦 Railway Appwrite Webhook Proxy](https://github.com/Meldiron/railway-webhook-proxy)
 - [💻 Monitor Ink - Website monitoring](https://github.com/Meldiron/monitor-ink)
 - [🧊 Node SlimeFormat](https://github.com/Meldiron/node-swm)
 - [😎 Faker.JS JSON generator](https://github.com/Meldiron/faker-generator)
@@ -51,6 +51,8 @@ Work in progress:
 - [📊 Appsmith & Appwrite Demo](https://github.com/Meldiron/appwrite-appsmith-demo)
 - [🔔 Novu & Appwrite Demo](https://github.com/Meldiron/appwrite-novu-demo)
 - [🎧 Spotify & Appwrite Demo](https://github.com/Meldiron/appwrite-spotify)
+- [🌐 Next.js 12- & Appwrite Demo](https://github.com/Meldiron/appwrite-next-ssr)
+- [🌐 Next.js 13+ & Appwrite Demo](https://github.com/Meldiron/appwrite-next13-ssr)
 - [♟️ Appwrite Game Demo](https://github.com/Benji47/knight-game)  _(contributor)_
 
 ### 📘 My Stunning Articles
@@ -65,7 +67,8 @@ Work in progress:
 
 ### 🤝 My Open Source Contributions
 
-- 🔥 Over [1500 Appwrite commits](https://github.com/search?o=desc&q=org%3Aappwrite+org%3Autopia-php+org%3Aopen-runtimes+is%3Apr+author%3Ameldiron&s=committer-date&type=Commits)
+- 🔥 Over [2000 Appwrite commits](https://github.com/search?q=org%3Aappwrite+org%3Autopia-php+org%3Aopen-runtimes+author%3Ameldiron&type=commits&query=org%3Aappwrite+org%3Autopia-php+org%3Aopen-runtimes+is%3Apr+author%3Ameldiron)
+- 🟣 Add system helpers to Mockoon [#858](https://github.com/mockoon/mockoon/pull/858)
 - 🟣 Add pagination into Gitstalk [#54](https://github.com/thelittlewonder/gitstalk/pull/54)
 - 🟣 Add Recaptcha validation into FormEasy [#2](https://github.com/Basharath/FormEasy/pull/2)
 - 🟣 Improve camelCase parsing in Swagger JS Codegen [#8](https://github.com/bart-sk/swagger-js-codegen/pull/8)
