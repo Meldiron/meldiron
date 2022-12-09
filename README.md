@@ -23,10 +23,10 @@ I am Matej Bačo, an open-minded software engineer. I love giving to open source
 ### ✨ My Awesome Repositories
 
 
-- [⌨️ Almost TypeRacer](https://github.com/Meldiron/almost-typeracer) [live demo](https://typeracer.almostapps.eu/) _(work in progress)_
-- [🗨️ Almost Shoutcart](https://github.com/Meldiron/almost-shoutcart) [live demo](https://shoutcart.almostapps.eu/) _(work in progress)_
-- [📄 Almost Gist](https://github.com/Meldiron/almost-gist) [live demo](https://gist.almostapps.eu/)
-- [💬 Almost Kialo](https://github.com/Meldiron/almost-kialo) [live demo](https://kialo.almostapps.eu/)
+- [⌨️ Almost TypeRacer](https://github.com/Meldiron/almost-typeracer) | [live demo](https://typeracer.almostapps.eu/) _(work in progress)_
+- [🗨️ Almost Shoutcart](https://github.com/Meldiron/almost-shoutcart) | [live demo](https://shoutcart.almostapps.eu/) _(work in progress)_
+- [📄 Almost Gist](https://github.com/Meldiron/almost-gist) | [live demo](https://gist.almostapps.eu/)
+- [💬 Almost Kialo](https://github.com/Meldiron/almost-kialo) | [live demo](https://kialo.almostapps.eu/)
 - [🎬 Almost Netflix](https://github.com/appwrite/demo-almost-netflix-for-web)
 - [🎨 Almost Reddit Place](https://github.com/Meldiron/almost-reddit-place)
 - [🎰 Almost Casino](https://github.com/Meldiron/almost-casino)
