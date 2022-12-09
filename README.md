@@ -16,17 +16,19 @@ I am Matej Bačo, an open-minded software engineer. I love giving to open source
 
 ### 👑 My Best Project
 
-[🏎️ TMStats](https://github.com/Meldiron/tmstats)
+[🏎️ TMStats](https://github.com/Meldiron/tmstats) | [www.tmstats.eu](https://www.tmstats.eu/)
 
 ![Cover](https://raw.githubusercontent.com/Meldiron/tmstats/master/static/cover_tmstats.png)
 
-### ✨ My Awesome Repositories
+### ✨ Almost Apps
 
+- [⌨️ Almost TypeRacer](https://github.com/Meldiron/almost-typeracer) | [typeracer.almostapps.eu](https://typeracer.almostapps.eu/)
+- [🗨️ Almost Shoutcart](https://github.com/Meldiron/almost-shoutcart) | [shoutcart.almostapps.eu](https://shoutcart.almostapps.eu/)
+- [📄 Almost Gist](https://github.com/Meldiron/almost-gist) | [gist.almostapps.eu](https://gist.almostapps.eu/)
+- [💬 Almost Kialo](https://github.com/Meldiron/almost-kialo) | [kialo.almostapps.eu](https://kialo.almostapps.eu/)
 
-- [⌨️ Almost TypeRacer](https://github.com/Meldiron/almost-typeracer) | [live demo](https://typeracer.almostapps.eu/) _(work in progress)_
-- [🗨️ Almost Shoutcart](https://github.com/Meldiron/almost-shoutcart) | [live demo](https://shoutcart.almostapps.eu/) _(work in progress)_
-- [📄 Almost Gist](https://github.com/Meldiron/almost-gist) | [live demo](https://gist.almostapps.eu/)
-- [💬 Almost Kialo](https://github.com/Meldiron/almost-kialo) | [live demo](https://kialo.almostapps.eu/)
+### 👵 Deprecated Almost Apps
+
 - [🎬 Almost Netflix](https://github.com/appwrite/demo-almost-netflix-for-web)
 - [🎨 Almost Reddit Place](https://github.com/Meldiron/almost-reddit-place)
 - [🎰 Almost Casino](https://github.com/Meldiron/almost-casino)
@@ -35,7 +37,7 @@ I am Matej Bačo, an open-minded software engineer. I love giving to open source
 - [🖱️ Almost Figma](https://github.com/Meldiron/realtime-playground-appwrite)
 - [📰 Almost Reddit](https://github.com/MatusFercak/coddit-app) _(contributor)_
 
----
+### ✨ Other Awesome Repositories
 
 - [📖 Syllable Game](https://github.com/Meldiron/syllable-game)
 - [🏗️ Appwrite CMS](https://github.com/Meldiron/appwrite-cms)
