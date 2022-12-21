@@ -14,19 +14,29 @@ I am Matej Bačo, an open-minded software engineer. I love giving to open source
 - 📫 Reach me at `matejbaco2000@gmail.com`
 - ⚡ Fun fact: I love the **light mode**
 
-### 👑 My Best Project
+---
+
+### 🥇 My Best Project
 
 [🏎️ TMStats](https://github.com/Meldiron/tmstats) | [www.tmstats.eu](https://www.tmstats.eu/)
 
 ![Cover](https://raw.githubusercontent.com/Meldiron/tmstats/master/static/cover_tmstats.png)
 
-### ✨ Almost Apps
+### 🥈 My Best Runner-Up
+
+[⌨️ Almost TypeRacer](https://github.com/Meldiron/almost-typeracer) | [typeracer.almostapps.eu](https://typeracer.almostapps.eu/)
+
+![Cover](https://raw.githubusercontent.com/Meldiron/almost-typeracer/main/static/cover.png)
+
+### 🥉 Honourable Mention 
 
 - [🔗 Almost Linktree](https://github.com/Meldiron/almost-linktree) | [linktree.almostapps.eu](https://linktree.almostapps.eu/)
 - [📄 Almost Gist](https://github.com/Meldiron/almost-gist) | [gist.almostapps.eu](https://gist.almostapps.eu/)
 - [💬 Almost Kialo](https://github.com/Meldiron/almost-kialo) | [kialo.almostapps.eu](https://kialo.almostapps.eu/)
 - [⌨️ Almost TypeRacer](https://github.com/Meldiron/almost-typeracer) | [typeracer.almostapps.eu](https://typeracer.almostapps.eu/)
 - [🗨️ Almost Shoutcart](https://github.com/Meldiron/almost-shoutcart) | [shoutcart.almostapps.eu](https://shoutcart.almostapps.eu/)
+
+---
 
 ### 👵 Deprecated Almost Apps
 
