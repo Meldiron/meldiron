@@ -30,6 +30,9 @@ I am Matej Bačo, an open-minded software engineer. I love giving to open source
 
 ### 🥉 Honourable Mention 
 
+
+- [🐻‍❄️ Almost Polar Habits](https://github.com/Meldiron/almost-polar-habits) | [polarhabits.almostapps.eu](https://polarhabits.almostapps.eu/)
+- [♟️ Almost Boop](https://github.com/Meldiron/almost-boop) | [boop.almostapps.eu](https://boop.almostapps.eu/)
 - [🔴 Almost Evades](https://github.com/Meldiron/almost-evades) | [evades.almostapps.eu](https://evades.almostapps.eu/)
 - [🔗 Almost Linktree](https://github.com/Meldiron/almost-linktree) | [linktree.almostapps.eu](https://linktree.almostapps.eu/)
 - [📄 Almost Gist](https://github.com/Meldiron/almost-gist) | [gist.almostapps.eu](https://gist.almostapps.eu/)
