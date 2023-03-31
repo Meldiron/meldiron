@@ -26,7 +26,7 @@ I am Matej Bačo, an open-minded software engineer. I love giving to open source
 
 ### 🥉 Honourable Mention 
 
-
+- [📰 TechScrunch](https://github.com/appwrite/techscrunch) | [www.techscrunch.dev](https://www.techscrunch.dev/)
 - [🐻‍❄️ Almost Polar Habits](https://github.com/Meldiron/almost-polar-habits) | [polarhabits.almostapps.eu](https://polarhabits.almostapps.eu/)
 - [♟️ Almost Boop](https://github.com/Meldiron/almost-boop) | [boop.almostapps.eu](https://boop.almostapps.eu/)
 - [🔴 Almost Evades](https://github.com/Meldiron/almost-evades) | [evades.almostapps.eu](https://evades.almostapps.eu/)
@@ -35,6 +35,7 @@ I am Matej Bačo, an open-minded software engineer. I love giving to open source
 - [💬 Almost Kialo](https://github.com/Meldiron/almost-kialo) | [kialo.almostapps.eu](https://kialo.almostapps.eu/)
 - [⌨️ Almost TypeRacer](https://github.com/Meldiron/almost-typeracer) | [typeracer.almostapps.eu](https://typeracer.almostapps.eu/)
 - [🗨️ Almost Shoutcart](https://github.com/Meldiron/almost-shoutcart) | [shoutcart.almostapps.eu](https://shoutcart.almostapps.eu/)
+- []
 
 ---
 
