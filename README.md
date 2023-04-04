@@ -72,6 +72,7 @@ I am Matej Bačo, an open-minded software engineer. I love giving to open source
 ### 📘 My Stunning Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Our AI-Powered TechCrunch Clone Went Viral, This Is How We Built It](https://dev.to/appwrite/our-ai-powered-techcrunch-clone-went-viral-this-is-how-we-built-it-495d)
 - [Go Limitless with New Appwrite Queries](https://dev.to/appwrite/go-limitless-with-new-appwrite-queries-2ajg)
 - [Appwrite Loves Open Source: Why I Chose To Sponsor Offen](https://dev.to/appwrite/appwrite-loves-open-source-why-i-chose-to-sponsor-offen-5efn)
 - [Appwrite Hand-In-Hand with Svelte Kit &lpar;SSR&rpar;](https://dev.to/meldiron/appwrite-hand-in-hand-with-svelte-kit-ssr-5097)
@@ -83,7 +84,6 @@ I am Matej Bačo, an open-minded software engineer. I love giving to open source
 - [Introducing Almost Netflix: Netflix clone built with Vue and Appwrite](https://dev.to/appwrite/introducing-almost-netflix-a-netflix-clone-built-with-vue-and-appwrite-34nb)
 - [Did we just build a Netflix clone with Appwrite?](https://dev.to/appwrite/did-we-just-build-a-netflix-clone-with-appwrite-28ok)
 - [The best database pagination technique is ...](https://dev.to/appwrite/this-is-why-you-should-use-cursor-pagination-4nh5)
-- [Faker.js Generator - Never write sample data manually again ⌛](https://dev.to/meldiron/faker-js-generator-never-write-sample-data-manually-again-57ba)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🤝 My Open Source Contributions
