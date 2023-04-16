@@ -10,23 +10,17 @@ I am Matej Bačo, an open-minded software engineer. I love giving to open source
 - 📫 Reach me at `matejbaco2000@gmail.com`
 - ⚡ Fun fact: I love the **light mode**
 
----
+### 🥇 My Cool Project
 
-### 🥇 My Best Project
-
-[🏎️ TMStats](https://github.com/Meldiron/tmstats) | [www.tmstats.eu](https://www.tmstats.eu/)
-
-![Cover](https://raw.githubusercontent.com/Meldiron/tmstats/master/static/cover_tmstats.png)
-
-### 🥈 My Best Runner-Up
-
-[⌨️ Almost TypeRacer](https://github.com/Meldiron/almost-typeracer) | [typeracer.almostapps.eu](https://typeracer.almostapps.eu/)
-
-![Cover](https://raw.githubusercontent.com/Meldiron/almost-typeracer/main/static/cover.png)
-
-### 🥉 Honourable Mention 
-
+- [🏎️ TMStats](https://github.com/Meldiron/tmstats) | [www.tmstats.eu](https://www.tmstats.eu/)
 - [📰 TechScrunch](https://github.com/appwrite/techscrunch) | [www.techscrunch.dev](https://www.techscrunch.dev/)
+- [📖 Syllable Game](https://github.com/Meldiron/syllable-game)
+- [🏗️ Appwrite CMS](https://github.com/Meldiron/appwrite-cms)
+- [🚦 Railway Appwrite Webhook Proxy](https://github.com/Meldiron/railway-webhook-proxy)
+
+### 🥈 My Almost Apps
+
+- [⌨️ Almost TypeRacer](https://github.com/Meldiron/almost-typeracer) | [typeracer.almostapps.eu](https://typeracer.almostapps.eu/)
 - [🐻‍❄️ Almost Polar Habits](https://github.com/Meldiron/almost-polar-habits) | [polarhabits.almostapps.eu](https://polarhabits.almostapps.eu/)
 - [♟️ Almost Boop](https://github.com/Meldiron/almost-boop) | [boop.almostapps.eu](https://boop.almostapps.eu/)
 - [🔴 Almost Evades](https://github.com/Meldiron/almost-evades) | [evades.almostapps.eu](https://evades.almostapps.eu/)
@@ -35,8 +29,6 @@ I am Matej Bačo, an open-minded software engineer. I love giving to open source
 - [💬 Almost Kialo](https://github.com/Meldiron/almost-kialo) | [kialo.almostapps.eu](https://kialo.almostapps.eu/)
 - [⌨️ Almost TypeRacer](https://github.com/Meldiron/almost-typeracer) | [typeracer.almostapps.eu](https://typeracer.almostapps.eu/)
 - [🗨️ Almost Shoutcart](https://github.com/Meldiron/almost-shoutcart) | [shoutcart.almostapps.eu](https://shoutcart.almostapps.eu/)
-
----
 
 ### 👵 Deprecated Almost Apps
 
@@ -50,14 +42,10 @@ I am Matej Bačo, an open-minded software engineer. I love giving to open source
 
 ### ✨ Other Awesome Repositories
 
-- [📖 Syllable Game](https://github.com/Meldiron/syllable-game)
-- [🏗️ Appwrite CMS](https://github.com/Meldiron/appwrite-cms)
-- [🚦 Railway Appwrite Webhook Proxy](https://github.com/Meldiron/railway-webhook-proxy)
 - [💻 Monitor Ink - Website monitoring](https://github.com/Meldiron/monitor-ink)
-- [🧊 Node SlimeFormat](https://github.com/Meldiron/node-swm)
 - [😎 Faker.JS JSON generator](https://github.com/Meldiron/faker-generator)
 
----
+### 📚 Demo Apps
 
 - [🚄 Railway & Appwrite Functions Demo](https://github.com/Meldiron/railway-webhook-proxy)
 - [🎨 Blurhash & Angular Demo](https://github.com/Meldiron/blurhash-angular-demo)
@@ -68,6 +56,10 @@ I am Matej Bačo, an open-minded software engineer. I love giving to open source
 - [🌐 Next.js 12- & Appwrite Demo](https://github.com/Meldiron/appwrite-next-ssr)
 - [🌐 Next.js 13+ & Appwrite Demo](https://github.com/Meldiron/appwrite-next13-ssr)
 - [♟️ Appwrite Game Demo](https://github.com/Benji47/knight-game)  _(contributor)_
+
+### 🤖 Almost SSR Demos
+
+- [🔦 Svelte Kit](https://github.com/Meldiron/appwrite-ssr-svelte-kit) | [svelte-kit.ssr.almostapps.eu](https://svelte-kit.ssr.almostapps.eu/)
 
 ### 📘 My Stunning Articles
 
