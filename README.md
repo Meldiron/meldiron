@@ -60,6 +60,7 @@ I am Matej Bačo, an open-minded software engineer. I love giving to open source
 ### 🤖 Almost SSR Demos
 
 - [🔦 Svelte Kit](https://github.com/Meldiron/appwrite-ssr-svelte-kit) | [svelte-kit.ssr.almostapps.eu](https://svelte-kit.ssr.almostapps.eu/)
+- [🔦 Next.js](https://github.com/Meldiron/appwrite-ssr-next-js) | [next-js.ssr.almostapps.eu](https://next-js.ssr.almostapps.eu/)
 
 ### 📘 My Stunning Articles
 
