@@ -1,9 +1,9 @@
 # Hey there 👋
 
-I am Matej Bačo, an open-minded software engineer. I love giving to open source as much as I love receiving. 🎁
+I am Matej Bačo, an open-minded software engineer.
+I love giving to open source as much as I love receiving. 🎁
 
-<img src="https://user-images.githubusercontent.com/19310830/233330377-a4e24cd8-6adb-4cad-9b18-444aa4f1030f.png" width="350" />
-
+<img src="https://cdn.discordapp.com/attachments/935205225508253766/1098548774839783454/card.png" width="350" />
 
 ### 🚹 Basic Information
 
