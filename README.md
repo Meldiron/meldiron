@@ -1,9 +1,13 @@
 # Hey there 👋
 
-<img  align="right" src="https://user-images.githubusercontent.com/19310830/233335137-0111b274-d302-4604-b4d5-504c14c81f93.png" width="350" />
+
 
 I am Matej Bačo, an open-minded software engineer.
 I love giving to open source as much as I love receiving. 🎁
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/19310830/233335137-0111b274-d302-4604-b4d5-504c14c81f93.png" width="350" />
+</p>
 
 ### 🚹 Basic Information
 
@@ -95,4 +99,5 @@ I love giving to open source as much as I love receiving. 🎁
 ### 🔧 My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=appwrite,html,css,sass,tailwind,js,ts,vue,svelte,angular,deno,nodejs,php,mysql,docker,git&perline=8)](https://matejbaco.eu/)
+
 
