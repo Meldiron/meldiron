@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I am Matej Bačo, an open-minded software engineer.
+I am Matej Bačo, an open-minded software engineer from Czech Republic. 🇨🇿<br>
 I love giving to open source as much as I love receiving. 🎁
 
 ### 🚹 Basic Information
@@ -11,25 +11,26 @@ I love giving to open source as much as I love receiving. 🎁
 - 📫 Reach me at `matejbaco2000@gmail.com`
 - ⚡ Fun fact: I love the **light mode**
 
-### 🥇 My Cool Project
+<a href="https://medium.com/@matejbaco2000" target="_blank"><img alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/matejbaco" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://dev.to/meldiron" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>  <a href="https://twitter.com/_meldiron" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+</p>
 
-- [🏎️ TMStats](https://github.com/Meldiron/tmstats) | [www.tmstats.eu](https://www.tmstats.eu/)
-- [📰 TechScrunch](https://github.com/appwrite/techscrunch) | [www.techscrunch.dev](https://www.techscrunch.dev/)
-- [📖 Syllable Game](https://github.com/Meldiron/syllable-game)
-- [🏗️ Appwrite CMS](https://github.com/Meldiron/appwrite-cms)
-- [🚦 Railway Appwrite Webhook Proxy](https://github.com/Meldiron/railway-webhook-proxy)
+### 🥇 My Almost Apps
 
-### 🥈 My Almost Apps
-
-- [⌨️ Almost TypeRacer](https://github.com/Meldiron/almost-typeracer) | [typeracer.almostapps.eu](https://typeracer.almostapps.eu/)
-- [🐻‍❄️ Almost Polar Habits](https://github.com/Meldiron/almost-polar-habits) | [polarhabits.almostapps.eu](https://polarhabits.almostapps.eu/)
-- [♟️ Almost Boop](https://github.com/Meldiron/almost-boop) | [boop.almostapps.eu](https://boop.almostapps.eu/)
-- [🔴 Almost Evades](https://github.com/Meldiron/almost-evades) | [evades.almostapps.eu](https://evades.almostapps.eu/)
-- [🔗 Almost Linktree](https://github.com/Meldiron/almost-linktree) | [linktree.almostapps.eu](https://linktree.almostapps.eu/)
-- [📄 Almost Gist](https://github.com/Meldiron/almost-gist) | [gist.almostapps.eu](https://gist.almostapps.eu/)
-- [💬 Almost Kialo](https://github.com/Meldiron/almost-kialo) | [kialo.almostapps.eu](https://kialo.almostapps.eu/)
-- [⌨️ Almost TypeRacer](https://github.com/Meldiron/almost-typeracer) | [typeracer.almostapps.eu](https://typeracer.almostapps.eu/)
-- [🗨️ Almost Shoutcart](https://github.com/Meldiron/almost-shoutcart) | [shoutcart.almostapps.eu](https://shoutcart.almostapps.eu/)
+* [⌨️ Almost TypeRacer](https://github.com/Meldiron/almost-typeracer) | [typeracer.almostapps.eu](https://typeracer.almostapps.eu/)
+* [🐻‍❄️ Almost Polar Habits](https://github.com/Meldiron/almost-polar-habits) | [polarhabits.almostapps.eu](https://polarhabits.almostapps.eu/)
+* [♟️ Almost Boop](https://github.com/Meldiron/almost-boop) | [boop.almostapps.eu](https://boop.almostapps.eu/)
+* [🔴 Almost Evades](https://github.com/Meldiron/almost-evades) | [evades.almostapps.eu](https://evades.almostapps.eu/)
+* [🔗 Almost Linktree](https://github.com/Meldiron/almost-linktree) | [linktree.almostapps.eu](https://linktree.almostapps.eu/)
+* [📄 Almost Gist](https://github.com/Meldiron/almost-gist) | [gist.almostapps.eu](https://gist.almostapps.eu/)
+* [💬 Almost Kialo](https://github.com/Meldiron/almost-kialo) | [kialo.almostapps.eu](https://kialo.almostapps.eu/)
+* [⌨️ Almost TypeRacer](https://github.com/Meldiron/almost-typeracer) | [typeracer.almostapps.eu](https://typeracer.almostapps.eu/)
+* [🗨️ Almost Shoutcart](https://github.com/Meldiron/almost-shoutcart) | [shoutcart.almostapps.eu](https://shoutcart.almostapps.eu/)
+* 💾 __Almost SSR__
+  * [🔦 Svelte Kit](https://github.com/Meldiron/appwrite-ssr-svelte-kit) | [svelte-kit.ssr.almostapps.eu](https://svelte-kit.ssr.almostapps.eu/)
+  * [🔦 Next.js](https://github.com/Meldiron/appwrite-ssr-next-js) | [next-js.ssr.almostapps.eu](https://next-js.ssr.almostapps.eu/)
+  * [🔦 Nuxt](https://github.com/Meldiron/appwrite-ssr-nuxt) | [nuxt.ssr.almostapps.eu](https://nuxt.ssr.almostapps.eu/)
+  * [🔦 Astro](https://github.com/Meldiron/appwrite-ssr-astro) | [astro.ssr.almostapps.eu](https://astro.ssr.almostapps.eu/)
+  * [🔦 Qwik](https://github.com/Meldiron/appwrite-ssr-qwik) | [qwik.ssr.almostapps.eu](https://qwik.ssr.almostapps.eu/)
 
 ### 👵 Deprecated Almost Apps
 
@@ -43,6 +44,11 @@ I love giving to open source as much as I love receiving. 🎁
 
 ### ✨ Other Awesome Repositories
 
+- [📰 TechScrunch](https://github.com/appwrite/techscrunch) | [www.techscrunch.dev](https://www.techscrunch.dev/)
+- [🏎️ TMStats](https://github.com/Meldiron/tmstats)
+- [📖 Syllable Game](https://github.com/Meldiron/syllable-game)
+- [🏗️ Appwrite CMS](https://github.com/Meldiron/appwrite-cms)
+- [🚦 Railway Appwrite Webhook Proxy](https://github.com/Meldiron/railway-webhook-proxy)
 - [💻 Monitor Ink - Website monitoring](https://github.com/Meldiron/monitor-ink)
 - [😎 Faker.JS JSON generator](https://github.com/Meldiron/faker-generator)
 
@@ -57,14 +63,6 @@ I love giving to open source as much as I love receiving. 🎁
 - [🌐 Next.js 12- & Appwrite Demo](https://github.com/Meldiron/appwrite-next-ssr)
 - [🌐 Next.js 13+ & Appwrite Demo](https://github.com/Meldiron/appwrite-next13-ssr)
 - [♟️ Appwrite Game Demo](https://github.com/Benji47/knight-game)  _(contributor)_
-
-### 🤖 Almost SSR Demos
-
-- [🔦 Svelte Kit](https://github.com/Meldiron/appwrite-ssr-svelte-kit) | [svelte-kit.ssr.almostapps.eu](https://svelte-kit.ssr.almostapps.eu/)
-- [🔦 Next.js](https://github.com/Meldiron/appwrite-ssr-next-js) | [next-js.ssr.almostapps.eu](https://next-js.ssr.almostapps.eu/)
-- [🔦 Nuxt](https://github.com/Meldiron/appwrite-ssr-nuxt) | [nuxt.ssr.almostapps.eu](https://nuxt.ssr.almostapps.eu/)
-- [🔦 Astro](https://github.com/Meldiron/appwrite-ssr-astro) | [astro.ssr.almostapps.eu](https://astro.ssr.almostapps.eu/)
-- [🔦 Qwik](https://github.com/Meldiron/appwrite-ssr-qwik) | [qwik.ssr.almostapps.eu](https://qwik.ssr.almostapps.eu/)
 
 ### 📘 My Stunning Articles
 
