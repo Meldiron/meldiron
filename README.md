@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/19310830/234208665-a837ac8c-1237-47dc-a5ff-88ae32a130f8.png" width="350" align="right" />
 
-I am Matej Bačo, an open-minded software engineer from Czech Republic 🇨🇿 I love giving to open source as much as I love receiving 🎁
+I am open-minded software engineer from Czech Republic 🇨🇿 I love giving to open source as much as I love receiving 🎁
 
 ### 🚹 Basic Information
 
