@@ -15,7 +15,7 @@ I am open-minded software engineer from Czech Republic 🇨🇿 I love giving to
 <a href="https://medium.com/@matejbaco2000" target="_blank"><img alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/matejbaco" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://dev.to/meldiron" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>  <a href="https://twitter.com/_meldiron" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 </p>
 
-### 🥇 My Almost Apps
+### 🥇 Almost Apps
 
 * [⌨️ Almost TypeRacer](https://github.com/Meldiron/almost-typeracer) | [typeracer.almostapps.eu](https://typeracer.almostapps.eu/)
 * [🐻‍❄️ Almost Polar Habits](https://github.com/Meldiron/almost-polar-habits) | [polarhabits.almostapps.eu](https://polarhabits.almostapps.eu/)
@@ -32,6 +32,7 @@ I am open-minded software engineer from Czech Republic 🇨🇿 I love giving to
   * [🔦 Nuxt](https://github.com/Meldiron/appwrite-ssr-nuxt) | [nuxt.ssr.almostapps.eu](https://nuxt.ssr.almostapps.eu/)
   * [🔦 Astro](https://github.com/Meldiron/appwrite-ssr-astro) | [astro.ssr.almostapps.eu](https://astro.ssr.almostapps.eu/)
   * [🔦 Qwik](https://github.com/Meldiron/appwrite-ssr-qwik) | [qwik.ssr.almostapps.eu](https://qwik.ssr.almostapps.eu/)
+  * [🔦 Remix](https://github.com/Meldiron/appwrite-ssr-remix) | [remix.ssr.almostapps.eu](https://remix.ssr.almostapps.eu/)
 
 ### 👵 Deprecated Almost Apps
 
@@ -65,7 +66,7 @@ I am open-minded software engineer from Czech Republic 🇨🇿 I love giving to
 - [🌐 Next.js 13+ & Appwrite Demo](https://github.com/Meldiron/appwrite-next13-ssr)
 - [♟️ Appwrite Game Demo](https://github.com/Benji47/knight-game)  _(contributor)_
 
-### 📘 My Stunning Articles
+### 📘 Stunning Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [Join Celebrations! Appwrite 1.3 Ships Relationships](https://dev.to/appwrite/join-celebrations-appwrite-13-ships-relationships-57fc)
@@ -82,7 +83,7 @@ I am open-minded software engineer from Czech Republic 🇨🇿 I love giving to
 - [Did we just build a Netflix clone with Appwrite?](https://dev.to/appwrite/did-we-just-build-a-netflix-clone-with-appwrite-28ok)
 <!-- BLOG-POST-LIST:END -->
 
-### 🤝 My Open Source Contributions
+### 🤝 Open Source Contributions
 
 - 🔥 Over [2.3k Appwrite Commits](https://github.com/search?q=org%3Aappwrite+org%3Autopia-php+org%3Aopen-runtimes+author%3Ameldiron&type=commits&query=org%3Aappwrite+org%3Autopia-php+org%3Aopen-runtimes+is%3Apr+author%3Ameldiron)
 - 🟢 Add system helpers to Mockoon [#858](https://github.com/mockoon/mockoon/pull/858)
@@ -92,7 +93,7 @@ I am open-minded software engineer from Czech Republic 🇨🇿 I love giving to
 - 🟣 Improve CloudNet connections logger [#22](https://github.com/CloudNetService/CloudNet-v3/pull/22)
 - 🟣 Add sneaking support into Mineflayer [#609](https://github.com/PrismarineJS/mineflayer/pull/609)
 
-### 🔧 My Skills
+### 🔧 Technologies Learned
 
 [![My Skills](https://skillicons.dev/icons?i=appwrite,html,css,sass,tailwind,js,ts,vue,svelte,angular,deno,nodejs,php,mysql,docker,git&perline=8)](https://matejbaco.eu/)
 
