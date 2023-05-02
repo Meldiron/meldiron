@@ -1,7 +1,7 @@
 # Hey there 👋
 
 <a href="https://cloud.appwrite.io/card/63cae03b77407f925aa2">
-	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=63cae03b77407f925aa2" alt="Appwrite Cloud Card" align="right" />
+	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=63cae03b77407f925aa2&new" alt="Appwrite Cloud Card" align="right" />
 </a>
 
 I am open-minded software engineer from Czech Republic 🇨🇿<br />I love giving to open source as much as I love receiving 🎁
