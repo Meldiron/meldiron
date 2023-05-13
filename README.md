@@ -17,6 +17,11 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 <a href="https://medium.com/@matejbaco2000" target="_blank"><img alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/matejbaco" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://dev.to/meldiron" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>  <a href="https://twitter.com/_meldiron" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 </p>
 
+### 😇 Amazing Projects
+
+* [🏗️ Built With Appwrite](https://github.com/appwrite/builtwith) | [builtwith.appwrite.io](https://builtwith.appwrite.io/)
+* [📰 TechScrunch](https://github.com/appwrite/techscrunch) | [www.techscrunch.dev](https://www.techscrunch.dev/)
+
 ### 🥇 Almost Apps
 
 * [⌨️ Almost TypeRacer](https://github.com/Meldiron/almost-typeracer) | [typeracer.almostapps.eu](https://typeracer.almostapps.eu/)
@@ -48,7 +53,6 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 
 ### ✨ Other Awesome Repositories
 
-- [📰 TechScrunch](https://github.com/appwrite/techscrunch) | [www.techscrunch.dev](https://www.techscrunch.dev/)
 - [🏎️ TMStats](https://github.com/Meldiron/tmstats)
 - [📖 Syllable Game](https://github.com/Meldiron/syllable-game)
 - [🏗️ Appwrite CMS](https://github.com/Meldiron/appwrite-cms)
