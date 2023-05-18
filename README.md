@@ -19,12 +19,12 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 
 ### 😇 Amazing Projects
 
+* [🔐 Auth UI](https://github.com/meldiron/authui) | [www.authui.site](https://www.authui.site/)
 * [🏗️ Built With Appwrite](https://github.com/appwrite/builtwith) | [builtwith.appwrite.io](https://builtwith.appwrite.io/)
 * [📰 TechScrunch](https://github.com/appwrite/techscrunch) | [www.techscrunch.dev](https://www.techscrunch.dev/)
 
 ### 🥇 Almost Apps
 
-* [⌨️ Almost TypeRacer](https://github.com/Meldiron/almost-typeracer) | [typeracer.almostapps.eu](https://typeracer.almostapps.eu/)
 * [🐻‍❄️ Almost Polar Habits](https://github.com/Meldiron/almost-polar-habits) | [polarhabits.almostapps.eu](https://polarhabits.almostapps.eu/)
 * [♟️ Almost Boop](https://github.com/Meldiron/almost-boop) | [boop.almostapps.eu](https://boop.almostapps.eu/)
 * [🔴 Almost Evades](https://github.com/Meldiron/almost-evades) | [evades.almostapps.eu](https://evades.almostapps.eu/)
