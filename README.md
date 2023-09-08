@@ -75,6 +75,7 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 ### 📘 Stunning Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Serverless your way: Unleashing Appwrite Function’s true potential](https://dev.to/appwrite/serverless-your-way-unleashing-appwrite-functions-true-potential-2l4f)
 - [Join Celebrations! Appwrite 1.3 Ships Relationships](https://dev.to/appwrite/join-celebrations-appwrite-13-ships-relationships-57fc)
 - [Go Limitless with New Appwrite Queries](https://dev.to/appwrite/go-limitless-with-new-appwrite-queries-2ajg)
 - [Appwrite Loves Open Source: Why I Chose To Sponsor Offen](https://dev.to/appwrite/appwrite-loves-open-source-why-i-chose-to-sponsor-offen-5efn)
@@ -86,7 +87,6 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 - [Appwrite Storage meets limitless S3](https://dev.to/appwrite/appwrite-storage-meets-limitless-s3-1g89)
 - [Introducing Almost Netflix: Netflix clone built with Vue and Appwrite](https://dev.to/appwrite/introducing-almost-netflix-a-netflix-clone-built-with-vue-and-appwrite-34nb)
 - [Did we just build a Netflix clone with Appwrite?](https://dev.to/appwrite/did-we-just-build-a-netflix-clone-with-appwrite-28ok)
-- [The best database pagination technique is ...](https://dev.to/appwrite/this-is-why-you-should-use-cursor-pagination-4nh5)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🤝 Open Source Contributions
