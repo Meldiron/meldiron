@@ -92,7 +92,7 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 
 ### 🤝 Open Source Contributions
 
-- 🔥 Over [2.4k Appwrite Commits](https://github.com/search?q=org%3Aappwrite+org%3Autopia-php+org%3Aopen-runtimes+author%3Ameldiron&type=commits&query=org%3Aappwrite+org%3Autopia-php+org%3Aopen-runtimes+is%3Apr+author%3Ameldiron)
+- 🔥 Over [3.5k Appwrite Commits](https://github.com/search?q=org%3Aappwrite+org%3Autopia-php+org%3Aopen-runtimes+author%3Ameldiron&type=commits&query=org%3Aappwrite+org%3Autopia-php+org%3Aopen-runtimes+is%3Apr+author%3Ameldiron)
 - 🟣 Open Runtimes 3.0, serverless functions engine [#136](https://github.com/open-runtimes/open-runtimes/pull/136)
 - 🟣 Add Recaptcha validation into FormEasy [#2](https://github.com/Basharath/FormEasy/pull/2)
 - 🟣 Improve camelCase parsing in Swagger JS Codegen [#8](https://github.com/bart-sk/swagger-js-codegen/pull/8)
