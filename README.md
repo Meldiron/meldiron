@@ -22,7 +22,7 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 * [🔐 Auth UI](https://github.com/meldiron/authui) | [www.authui.site](https://www.authui.site/)
 * [🏗️ Built With Appwrite](https://github.com/appwrite/builtwith) | [builtwith.appwrite.io](https://builtwith.appwrite.io/)
 * [📰 TechScrunch](https://github.com/appwrite/techscrunch) | [www.techscrunch.dev](https://www.techscrunch.dev/)
-* [🖼️ OG Image Generator](https://github.com/Meldiron/og-image-generator) | [bannerbear.almostapps.eu](https://bannerbear.almostapps.eu/)
+* [🖼️ OG Image Generator](https://github.com/Meldiron/og-image-generator) | [og-image-generator.appwrite.global](https://og-image-generator.appwrite.global/)
 
 ### 🥇 Almost Apps
 
