@@ -26,6 +26,7 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 
 ### 🥇 Almost Apps
 
+* [🎲 Almost Dice](https://github.com/Meldiron/almost-dice) | [dice.almostapps.eu](https://dice.almostapps.eu/)
 * [🐻‍❄️ Almost Polar Habits](https://github.com/Meldiron/almost-polar-habits) | [polarhabits.almostapps.eu](https://polarhabits.almostapps.eu/)
 * [♟️ Almost Boop](https://github.com/Meldiron/almost-boop) | [boop.almostapps.eu](https://boop.almostapps.eu/)
 * [🔴 Almost Evades](https://github.com/Meldiron/almost-evades) | [evades.almostapps.eu](https://evades.almostapps.eu/)
