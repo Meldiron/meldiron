@@ -28,16 +28,13 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 
 ### 🥇 Almost Apps
 
-* [🎲 Almost Dice](https://github.com/Meldiron/almost-dice) | [dice.almostapps.eu](https://dice.almostapps.eu/)
 * [🖼️ Almost Bannerbear](https://github.com/Meldiron/almost-bannerbear) | [bannerbear.almostapps.eu](https://bannerbear.almostapps.eu/)
 * [🐻‍❄️ Almost Polar Habits](https://github.com/Meldiron/almost-polar-habits) | [polarhabits.almostapps.eu](https://polarhabits.almostapps.eu/)
-* [♟️ Almost Boop](https://github.com/Meldiron/almost-boop) | [boop.almostapps.eu](https://boop.almostapps.eu/)
-* [🔴 Almost Evades](https://github.com/Meldiron/almost-evades) | [evades.almostapps.eu](https://evades.almostapps.eu/)
 * [🔗 Almost Linktree](https://github.com/Meldiron/almost-linktree) | [linktree.almostapps.eu](https://linktree.almostapps.eu/)
 * [📄 Almost Gist](https://github.com/Meldiron/almost-gist) | [gist.almostapps.eu](https://gist.almostapps.eu/)
 * [💬 Almost Kialo](https://github.com/Meldiron/almost-kialo) | [kialo.almostapps.eu](https://kialo.almostapps.eu/)
 * [⌨️ Almost TypeRacer](https://github.com/Meldiron/almost-typeracer) | [typeracer.almostapps.eu](https://typeracer.almostapps.eu/)
-* [🗨️ Almost Shoutcart](https://github.com/Meldiron/almost-shoutcart) | [shoutcart.almostapps.eu](https://shoutcart.almostapps.eu/)
+* [♟️ Almost Boop](https://github.com/Meldiron/almost-boop) | [boop.almostapps.eu](https://boop.almostapps.eu/)
 * 💾 __Almost SSR__
   * [🔦 Svelte Kit](https://github.com/Meldiron/appwrite-ssr-svelte-kit) | [svelte-kit.ssr.almostapps.eu](https://svelte-kit.ssr.almostapps.eu/)
   * [🔦 Next.js](https://github.com/Meldiron/appwrite-ssr-next-js) | [next-js.ssr.almostapps.eu](https://next-js.ssr.almostapps.eu/)
@@ -54,6 +51,9 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 - [🍪 Almost Cookie Clicker](https://github.com/Meldiron/cookie-clicker-using-appwrie)
 - [🛒 Almost Cookie Store](https://github.com/Meldiron/almost-cookie-store)
 - [🖱️ Almost Figma](https://github.com/Meldiron/realtime-playground-appwrite)
+- [🗨️ Almost Shoutcart](https://github.com/Meldiron/almost-shoutcart) | [shoutcart.almostapps.eu](https://shoutcart.almostapps.eu/)
+- [🎲 Almost Dice](https://github.com/Meldiron/almost-dice) | [dice.almostapps.eu](https://dice.almostapps.eu/)
+- [🔴 Almost Evades](https://github.com/Meldiron/almost-evades) | [evades.almostapps.eu](https://evades.almostapps.eu/)
 - [📰 Almost Reddit](https://github.com/MatusFercak/coddit-app) _(contributor)_
 
 ### ✨ Other Awesome Repositories
