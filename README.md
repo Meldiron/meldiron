@@ -3,9 +3,11 @@
 
 # Hey there 👋
 
+<!--
 <a href="https://cloud.appwrite.io/card/639221b5b7bf7d4cf024">
 	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=639221b5b7bf7d4cf024" alt="Appwrite Cloud Card" align="right" />
 </a>
+-->
 
 I am open-minded software engineer from Czech Republic 🇨🇿<br />I love giving to open source as much as I love receiving 🎁
 
