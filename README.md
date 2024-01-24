@@ -30,6 +30,7 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 
 ### 🥇 Almost Apps
 
+* [🎁 Almost Wishlist](https://github.com/Meldiron/almost-wishlist) | [wishlist.almostapps.eu](https://wishlist.almostapps.eu/)
 * [🖼️ Almost Bannerbear](https://github.com/Meldiron/almost-bannerbear) | [bannerbear.almostapps.eu](https://bannerbear.almostapps.eu/)
 * [🐻‍❄️ Almost Polar Habits](https://github.com/Meldiron/almost-polar-habits) | [polarhabits.almostapps.eu](https://polarhabits.almostapps.eu/)
 * [🔗 Almost Linktree](https://github.com/Meldiron/almost-linktree) | [linktree.almostapps.eu](https://linktree.almostapps.eu/)
@@ -61,6 +62,7 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 ### ✨ Other Awesome Repositories
 
 - [🏎️ TMStats](https://github.com/Meldiron/tmstats)
+- [🗺️ RSGuessr](https://github.com/Meldiron/rsguessr)
 - [📖 Syllable Game](https://github.com/Meldiron/syllable-game)
 - [🏗️ Appwrite CMS](https://github.com/Meldiron/appwrite-cms)
 - [🚦 Railway Appwrite Webhook Proxy](https://github.com/Meldiron/railway-webhook-proxy)
@@ -104,8 +106,8 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 - 🟣 Improve camelCase parsing in Swagger JS Codegen [#8](https://github.com/bart-sk/swagger-js-codegen/pull/8)
 - 🟣 Improve CloudNet connections logger [#22](https://github.com/CloudNetService/CloudNet-v3/pull/22)
 - 🟣 Add sneaking support into Mineflayer [#609](https://github.com/PrismarineJS/mineflayer/pull/609)
-- 🟢 Add system helpers to Mockoon [#858](https://github.com/mockoon/mockoon/pull/858)
 - 🟢 Add pagination into Gitstalk [#54](https://github.com/thelittlewonder/gitstalk/pull/54)
+- 🟢 Add system helpers to Mockoon [#858](https://github.com/mockoon/mockoon/pull/858)
 
 ### 🔧 Technologies Learned
 
