@@ -25,13 +25,16 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 
 ### 😇 Best Projects
 
+* [📚 Rewrite_](https://github.com/Meldiron/rewrite) | [rewrite.almostapps.eu](https://rewrite.almostapps.eu/)
 * [🔐 Auth UI](https://github.com/meldiron/authui) | [www.authui.site](https://www.authui.site/)
 * [🏗️ Built With Appwrite](https://github.com/appwrite/builtwith) | [builtwith.appwrite.io](https://builtwith.appwrite.io/)
 * [📰 TechScrunch](https://github.com/appwrite/techscrunch) | [www.techscrunch.dev](https://www.techscrunch.dev/)
+* [♟️ Chess Runners](https://github.com/Meldiron/chessrunners)
 
 ### 🥇 Almost Apps
 
 * [🎁 Almost Wishlist](https://github.com/Meldiron/almost-wishlist) | [wishlist.almostapps.eu](https://wishlist.almostapps.eu/)
+* [📅 Almost T-Minus Daily](https://github.com/Meldiron/almost-tminusdaily)
 * [🖼️ Almost Bannerbear](https://github.com/Meldiron/almost-bannerbear) | [bannerbear.almostapps.eu](https://bannerbear.almostapps.eu/)
 * [🐻‍❄️ Almost Polar Habits](https://github.com/Meldiron/almost-polar-habits) | [polarhabits.almostapps.eu](https://polarhabits.almostapps.eu/)
 * [🔗 Almost Linktree](https://github.com/Meldiron/almost-linktree) | [linktree.almostapps.eu](https://linktree.almostapps.eu/)
