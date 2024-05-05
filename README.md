@@ -19,6 +19,14 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 
 ### 🔥 Best Projects
 
+![Rewrite](https://github.com/Meldiron/meldiron/assets/19310830/388dcd5b-8fcb-447b-9de0-88867b2d8f5c)
+![AuthUI](https://github.com/Meldiron/meldiron/assets/19310830/961e27b0-f538-476d-99d0-41a353b852eb)
+![RSGuessr](https://github.com/Meldiron/meldiron/assets/19310830/1a2cb9e1-ec97-4641-9395-abc9ac466997)
+![TMStats](https://github.com/Meldiron/meldiron/assets/19310830/50b246c9-0cde-4631-8205-3fc2a3f223fb)
+![ChessRunners](https://github.com/Meldiron/meldiron/assets/19310830/83315a4a-c32f-4336-a2fa-5d63461cfd1b)
+![AlmostWishlist](https://github.com/Meldiron/meldiron/assets/19310830/e3c30fbc-f411-478a-97d1-bc97689e79f3)
+
+
 ### 🥇 Cool Apps
 
 * [🗨️ Almost Shoutcart](https://github.com/Meldiron/almost-shoutcart) | [shoutcart.almostapps.eu](https://shoutcart.almostapps.eu/)
