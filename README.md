@@ -9,7 +9,7 @@
 </a>
 -->
 
-I am open-minded software engineer from Czech Republic 🇨🇿<br />I love giving to open source as much as I love receiving 🎁
+I am open-minded software engineer from Czech Republic 🇨🇿<br />I love giving to open source community 🎁
 
 ### 🚹 Basic Information
 
