@@ -26,7 +26,7 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 <a href="https://github.com/meldiron/chessrunners" target="_blank">![ChessRunners](https://github.com/Meldiron/meldiron/assets/19310830/83315a4a-c32f-4336-a2fa-5d63461cfd1b)</a>
 <a href="https://github.com/meldiron/almost-wishlist" target="_blank">![AlmostWishlist](https://github.com/Meldiron/meldiron/assets/19310830/e3c30fbc-f411-478a-97d1-bc97689e79f3)</a>
 
-### 🥇 Cool Apps
+### 🥇 More Cool Apps
 
 * [🗨️ Almost Shoutcart](https://github.com/Meldiron/almost-shoutcart) | [shoutcart.almostapps.eu](https://shoutcart.almostapps.eu/)
 * [📰 TechScrunch](https://github.com/appwrite/techscrunch) | [www.techscrunch.dev](https://www.techscrunch.dev/)
@@ -44,13 +44,10 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 * [🎲 Almost Dice](https://github.com/Meldiron/almost-dice) | [dice.almostapps.eu](https://dice.almostapps.eu/)
 * [🔴 Almost Evades](https://github.com/Meldiron/almost-evades) | [evades.almostapps.eu](https://evades.almostapps.eu/)
 
-### ✨ Other Awesome Repositories
+### ✨ Outdated Projects
 
-- [📖 Syllable Game](https://github.com/Meldiron/syllable-game)
 - [🏗️ Appwrite CMS](https://github.com/Meldiron/appwrite-cms)
-- [🚦 Railway Appwrite Webhook Proxy](https://github.com/Meldiron/railway-webhook-proxy)
 - [💻 Monitor Ink - Website monitoring](https://github.com/Meldiron/monitor-ink)
-- [😎 Faker.JS JSON generator](https://github.com/Meldiron/faker-generator)
 
 ### 📚 Demo Apps
 
@@ -63,7 +60,9 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 - [🎧 Spotify & Appwrite Demo](https://github.com/Meldiron/appwrite-spotify)
 - [🌐 Next.js 12- & Appwrite Demo](https://github.com/Meldiron/appwrite-next-ssr)
 - [🌐 Next.js 13+ & Appwrite Demo](https://github.com/Meldiron/appwrite-next13-ssr)
-- [♟️ Appwrite Game Demo](https://github.com/Benji47/knight-game)  _(contributor)_
+- [🚦 Railway Appwrite Webhook Proxy](https://github.com/Meldiron/railway-webhook-proxy)
+- [📖 Syllable Game](https://github.com/Meldiron/syllable-game)
+- [😎 Faker.JS JSON generator](https://github.com/Meldiron/faker-generator)
 
 ### 📘 Stunning Articles
 
