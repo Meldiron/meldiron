@@ -25,7 +25,7 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 ---
 <a href="https://github.com/meldiron/rsguessr" target="_blank">![RSGuessr](https://github.com/Meldiron/meldiron/assets/19310830/1a2cb9e1-ec97-4641-9395-abc9ac466997)</a>
 ---
-<a href="https://github.com/meldiron/tmstats" target="_blank">![TMStats](https://github.com/Meldiron/meldiron/assets/19310830/50b246c9-0cde-4631-8205-3fc2a3f223fb)</a>
+<a href="https://github.com/meldiron/tmstats" target="_blank">![TMStats](https://github.com/Meldiron/meldiron/assets/19310830/eeeddeb3-7634-4ee3-9301-483c9ebdd6cf)</a>
 ---
 <a href="https://github.com/meldiron/chessrunners" target="_blank">![ChessRunners](https://github.com/Meldiron/meldiron/assets/19310830/83315a4a-c32f-4336-a2fa-5d63461cfd1b)</a>
 ---
