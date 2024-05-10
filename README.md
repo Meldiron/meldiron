@@ -36,16 +36,13 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 
 ### 🥇 More Cool Apps
 
-* [🔗 Almost Linktree](https://github.com/Meldiron/almost-linktree) | [linktree.almostapps.eu](https://linktree.almostapps.eu/)
-* [📄 Almost Gist](https://github.com/Meldiron/almost-gist) | [gist.almostapps.eu](https://gist.almostapps.eu/)
-
----
-
+- [🔗 Almost Linktree](https://github.com/Meldiron/almost-linktree) | [linktree.almostapps.eu](https://linktree.almostapps.eu/)
+- [📄 Almost Gist](https://github.com/Meldiron/almost-gist) | [gist.almostapps.eu](https://gist.almostapps.eu/)
 - [🏗️ Appwrite CMS](https://github.com/Meldiron/appwrite-cms)
 - [💻 Monitor Ink - Website monitoring](https://github.com/Meldiron/monitor-ink)
-* [⌨️ Almost TypeRacer](https://github.com/Meldiron/almost-typeracer) | [typeracer.almostapps.eu](https://typeracer.almostapps.eu/)
-* [🖼️ Almost Bannerbear](https://github.com/Meldiron/almost-bannerbear) | [bannerbear.almostapps.eu](https://bannerbear.almostapps.eu/)
-* [🗨️ Almost Shoutcart](https://github.com/Meldiron/almost-shoutcart) | [shoutcart.almostapps.eu](https://shoutcart.almostapps.eu/)
+- [⌨️ Almost TypeRacer](https://github.com/Meldiron/almost-typeracer) | [typeracer.almostapps.eu](https://typeracer.almostapps.eu/)
+- [🖼️ Almost Bannerbear](https://github.com/Meldiron/almost-bannerbear) | [bannerbear.almostapps.eu](https://bannerbear.almostapps.eu/)
+- [🗨️ Almost Shoutcart](https://github.com/Meldiron/almost-shoutcart) | [shoutcart.almostapps.eu](https://shoutcart.almostapps.eu/)
 
 ### ✨ In collaboration with Appwrite
 
