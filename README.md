@@ -1,4 +1,4 @@
-<img src="https://github.com/Meldiron/meldiron/assets/19310830/01e38251-e0ec-4db3-835c-3dbcd1876791" height="337" />
+<img src="https://github.com/Meldiron/meldiron/assets/19310830/01e38251-e0ec-4db3-835c-3dbcd1876791" />
 
 # Hey there 👋
 
@@ -18,16 +18,16 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 
 ### 🏆 Hall of fame
 
-<a href="https://github.com/meldiron/rewrite" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/388dcd5b-8fcb-447b-9de0-88867b2d8f5c" width="100%" height="570" /></a>
+<a href="https://github.com/meldiron/rewrite" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/388dcd5b-8fcb-447b-9de0-88867b2d8f5c" width="100%" /></a>
 
-<a href="https://github.com/armanNik/MailMemo" target="_blank"><img src="https://github.com/user-attachments/assets/118d15a6-aa78-4cd7-a517-168d16009f43" width="500px" height="285" /></a>
-<a href="https://github.com/meldiron/authui" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/961e27b0-f538-476d-99d0-41a353b852eb" width="500px" height="285" /></a>
-<a href="https://github.com/Meldiron/almost-polar-habits" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/10028575-d3c7-48a2-aa5c-9ac84b740c4b" width="500px" height="285" /></a>
-<a href="https://github.com/meldiron/rsguessr" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/1a2cb9e1-ec97-4641-9395-abc9ac466997" width="500px" height="285" /></a>
-<a href="https://github.com/meldiron/tmstats" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/eeeddeb3-7634-4ee3-9301-483c9ebdd6cf" width="500px" height="285" /></a>
-<a href="https://github.com/meldiron/chessrunners" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/83315a4a-c32f-4336-a2fa-5d63461cfd1b" width="500px" height="285" /></a>
-<a href="https://github.com/meldiron/almost-wishlist" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/e3c30fbc-f411-478a-97d1-bc97689e79f3" width="500px" height="285" /></a>
-<a href="https://github.com/Meldiron/almost-kialo" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/f8d4a34d-b3d1-4461-a6e0-fc95171c73c1" width="500px" height="285" /></a>
+<a href="https://github.com/armanNik/MailMemo" target="_blank"><img src="https://github.com/user-attachments/assets/118d15a6-aa78-4cd7-a517-168d16009f43" width="500" /></a>
+<a href="https://github.com/meldiron/authui" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/961e27b0-f538-476d-99d0-41a353b852eb" width="500" /></a>
+<a href="https://github.com/Meldiron/almost-polar-habits" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/10028575-d3c7-48a2-aa5c-9ac84b740c4b" width="500"  /></a>
+<a href="https://github.com/meldiron/rsguessr" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/1a2cb9e1-ec97-4641-9395-abc9ac466997" width="500" /></a>
+<a href="https://github.com/meldiron/tmstats" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/eeeddeb3-7634-4ee3-9301-483c9ebdd6cf" width="500" /></a>
+<a href="https://github.com/meldiron/chessrunners" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/83315a4a-c32f-4336-a2fa-5d63461cfd1b" width="500" /></a>
+<a href="https://github.com/meldiron/almost-wishlist" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/e3c30fbc-f411-478a-97d1-bc97689e79f3" width="500"  /></a>
+<a href="https://github.com/Meldiron/almost-kialo" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/f8d4a34d-b3d1-4461-a6e0-fc95171c73c1" width="500" /></a>
 
 ### 🥇 Honorable mentions
 
