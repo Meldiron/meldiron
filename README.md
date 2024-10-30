@@ -19,9 +19,11 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 ### 🏆 Hall of fame
 
 <a href="https://github.com/meldiron/rewrite" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/388dcd5b-8fcb-447b-9de0-88867b2d8f5c" width="100%" /></a>
-
+<a href="https://github.com/meldiron/authui" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/961e27b0-f538-476d-99d0-41a353b852eb" width="100%" /></a>
+<a href="https://github.com/Meldiron/almost-puzzles" target="_blank"><img src="https://github.com/user-attachments/assets/767699f7-ae64-4f99-9d65-f3523177cccd" width="49.5%" /></a>
+<a href="https://github.com/Meldiron/life-in-skills" target="_blank"><img src="https://github.com/user-attachments/assets/ef7710fc-8ac8-4e51-afcc-19522a3b5888" width="49.5%" /></a>
+<a href="https://github.com/Meldiron/focus-horizon" target="_blank"><img src="https://github.com/user-attachments/assets/768a45f4-92d2-405b-bf3c-989f9ce393af" width="49.5%" /></a>
 <a href="https://github.com/armanNik/MailMemo" target="_blank"><img src="https://github.com/user-attachments/assets/118d15a6-aa78-4cd7-a517-168d16009f43" width="49.5%" /></a>
-<a href="https://github.com/meldiron/authui" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/961e27b0-f538-476d-99d0-41a353b852eb" width="49.5%" /></a>
 <a href="https://github.com/Meldiron/almost-polar-habits" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/10028575-d3c7-48a2-aa5c-9ac84b740c4b" width="49.5%"  /></a>
 <a href="https://github.com/meldiron/rsguessr" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/1a2cb9e1-ec97-4641-9395-abc9ac466997" width="49.5%" /></a>
 <a href="https://github.com/meldiron/tmstats" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/eeeddeb3-7634-4ee3-9301-483c9ebdd6cf" width="49.5%" /></a>
