@@ -10,7 +10,7 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 - 🌱 I learn [Go](https://go.dev/)
 - 👯 I love to collaborate on side projects
 - 📫 Reach me at `matejbaco2000@gmail.com`
-- ⚡ Fun fact: I use **light mode**
+- ⚡ Fun fact: I like **light modes**
 - 🥴 Wierdest commit: [#7e674d6](https://github.com/appwrite/website/commit/7e674d6c59e97f29be0ac21ba84b3bd41718ffe0)
 
 <a href="https://medium.com/@matejbaco2000" target="_blank"><img alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/matejbaco" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://dev.to/meldiron" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>  <a href="https://twitter.com/_meldiron" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
@@ -20,14 +20,14 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 
 <a href="https://github.com/meldiron/rewrite" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/388dcd5b-8fcb-447b-9de0-88867b2d8f5c" width="100%" /></a>
 
-<a href="https://github.com/armanNik/MailMemo" target="_blank"><img src="https://github.com/user-attachments/assets/118d15a6-aa78-4cd7-a517-168d16009f43" width="500" /></a>
-<a href="https://github.com/meldiron/authui" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/961e27b0-f538-476d-99d0-41a353b852eb" width="500" /></a>
-<a href="https://github.com/Meldiron/almost-polar-habits" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/10028575-d3c7-48a2-aa5c-9ac84b740c4b" width="500"  /></a>
-<a href="https://github.com/meldiron/rsguessr" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/1a2cb9e1-ec97-4641-9395-abc9ac466997" width="500" /></a>
-<a href="https://github.com/meldiron/tmstats" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/eeeddeb3-7634-4ee3-9301-483c9ebdd6cf" width="500" /></a>
-<a href="https://github.com/meldiron/chessrunners" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/83315a4a-c32f-4336-a2fa-5d63461cfd1b" width="500" /></a>
-<a href="https://github.com/meldiron/almost-wishlist" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/e3c30fbc-f411-478a-97d1-bc97689e79f3" width="500"  /></a>
-<a href="https://github.com/Meldiron/almost-kialo" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/f8d4a34d-b3d1-4461-a6e0-fc95171c73c1" width="500" /></a>
+<a href="https://github.com/armanNik/MailMemo" target="_blank"><img src="https://github.com/user-attachments/assets/118d15a6-aa78-4cd7-a517-168d16009f43" width="49.5%" /></a>
+<a href="https://github.com/meldiron/authui" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/961e27b0-f538-476d-99d0-41a353b852eb" width="49.5%" /></a>
+<a href="https://github.com/Meldiron/almost-polar-habits" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/10028575-d3c7-48a2-aa5c-9ac84b740c4b" width="49.5%"  /></a>
+<a href="https://github.com/meldiron/rsguessr" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/1a2cb9e1-ec97-4641-9395-abc9ac466997" width="49.5%" /></a>
+<a href="https://github.com/meldiron/tmstats" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/eeeddeb3-7634-4ee3-9301-483c9ebdd6cf" width="49.5%" /></a>
+<a href="https://github.com/meldiron/chessrunners" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/83315a4a-c32f-4336-a2fa-5d63461cfd1b" width="49.5%" /></a>
+<a href="https://github.com/meldiron/almost-wishlist" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/e3c30fbc-f411-478a-97d1-bc97689e79f3" width="49.5%"  /></a>
+<a href="https://github.com/Meldiron/almost-kialo" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/f8d4a34d-b3d1-4461-a6e0-fc95171c73c1" width="49.5%" /></a>
 
 ### 🥇 Honorable mentions
 
@@ -78,7 +78,7 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 
 ### 🤝 Open source contributions
 
-- 🔥 Over [4.5k Appwrite Commits](https://github.com/search?q=org%3Aappwrite+org%3Autopia-php+org%3Aopen-runtimes+author%3Ameldiron&type=commits&query=org%3Aappwrite+org%3Autopia-php+org%3Aopen-runtimes+is%3Apr+author%3Ameldiron)
+- 🔥 Over [5000 Appwrite Commits](https://github.com/search?q=org%3Aappwrite+org%3Autopia-php+org%3Aopen-runtimes+author%3Ameldiron&type=commits&query=org%3Aappwrite+org%3Autopia-php+org%3Aopen-runtimes+is%3Apr+author%3Ameldiron)
 - 🟣 Open Runtimes 3.0, serverless functions engine [#136](https://github.com/open-runtimes/open-runtimes/pull/136)
 - 🟣 Add Recaptcha validation into FormEasy [#2](https://github.com/Basharath/FormEasy/pull/2)
 - 🟣 Improve camelCase parsing in Swagger JS Codegen [#8](https://github.com/bart-sk/swagger-js-codegen/pull/8)
