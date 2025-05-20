@@ -64,6 +64,7 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 ### 📘 Technical articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing Appwrite Sites: The open source Vercel alternative](https://dev.to/appwrite/announcing-appwrite-sites-the-open-source-vercel-alternative-35af)
 - [I Found Perfect CMS after Years of Trial and Error](https://dev.to/meldiron/i-found-perfect-cms-after-years-of-trial-and-error-2nb8)
 - [Biometric authentication with Passkeys](https://dev.to/meldiron/biometric-authentication-with-passkeys-3e1)
 - [Serverless your way: Unleashing Appwrite Function’s true potential](https://dev.to/appwrite/serverless-your-way-unleashing-appwrite-functions-true-potential-2l4f)
@@ -75,7 +76,6 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 - [Why Discord Is a Must-Have for OSS](https://dev.to/appwrite/why-discord-is-a-must-have-for-oss-2jpj)
 - [Start Selling Online Using Appwrite and Stripe](https://dev.to/appwrite/start-selling-online-using-appwrite-and-stripe-3l04)
 - [Scale Appwrite Storage with DigitalOcean Spaces](https://dev.to/appwrite/scale-appwrite-storage-with-digitalocean-spaces-36kh)
-- [Appwrite Storage meets limitless S3](https://dev.to/appwrite/appwrite-storage-meets-limitless-s3-1g89)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🤝 Open source contributions
