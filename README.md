@@ -8,7 +8,7 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 
 - 🔭 I work at [Appwrite](https://appwrite.io/)
 - 🌱 I learn [Go](https://go.dev/)
-- 👯 I love to collaborate on side projects
+- 👯 I actively contribute to [Odyc.js](https://odyc.dev/)
 - 📫 Reach me at `matejbaco2000@gmail.com`
 - ⚡ Fun fact: I like **light modes**
 - 🥴 Wierdest commit: [#7e674d6](https://github.com/appwrite/website/commit/7e674d6c59e97f29be0ac21ba84b3bd41718ffe0)
@@ -81,13 +81,11 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 ### 🤝 Open source contributions
 
 - 🔥 Over [5000 Appwrite Commits](https://github.com/search?q=org%3Aappwrite+org%3Autopia-php+org%3Aopen-runtimes+author%3Ameldiron&type=commits&query=org%3Aappwrite+org%3Autopia-php+org%3Aopen-runtimes+is%3Apr+author%3Ameldiron)
-- 🟣 Open Runtimes 3.0, serverless functions engine [#136](https://github.com/open-runtimes/open-runtimes/pull/136)
-- 🟣 Add Recaptcha validation into FormEasy [#2](https://github.com/Basharath/FormEasy/pull/2)
-- 🟣 Improve camelCase parsing in Swagger JS Codegen [#8](https://github.com/bart-sk/swagger-js-codegen/pull/8)
-- 🟣 Improve CloudNet connections logger [#22](https://github.com/CloudNetService/CloudNet-v3/pull/22)
-- 🟣 Add sneaking support into Mineflayer [#609](https://github.com/PrismarineJS/mineflayer/pull/609)
-- 🟢 Add pagination into Gitstalk [#54](https://github.com/thelittlewonder/gitstalk/pull/54)
-- 🟢 Add system helpers to Mockoon [#858](https://github.com/mockoon/mockoon/pull/858)
+- 🔥 Over [50+ Odyc.js Commits](https://github.com/search?q=org%3Aachtaitaipai+author%3Ameldiron+repo%3Aodyc&type=commits&query=org%3Aappwrite+org%3Autopia-php+org%3Aopen-runtimes+is%3Apr+author%3Ameldiron)
+- 🟣 Open Runtimes, serverless functions engine [#136](https://github.com/open-runtimes/open-runtimes/pull/136)
+- 🟣 FormEasy Recaptcha validation [#2](https://github.com/Basharath/FormEasy/pull/2)
+- 🟣 Mockoon system helpers [#858](https://github.com/mockoon/mockoon/pull/858)
+- 🟢 Gitstalk UI pagination [#54](https://github.com/thelittlewonder/gitstalk/pull/54)
 
 ### 🔧 Technologies I know
 
