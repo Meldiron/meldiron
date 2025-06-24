@@ -31,6 +31,13 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 <a href="https://github.com/meldiron/almost-wishlist" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/e3c30fbc-f411-478a-97d1-bc97689e79f3" width="49.5%"  /></a>
 <a href="https://github.com/Meldiron/almost-kialo" target="_blank"><img src="https://github.com/Meldiron/meldiron/assets/19310830/f8d4a34d-b3d1-4461-a6e0-fc95171c73c1" width="49.5%" /></a>
 
+### 🎮 Odyc.js minigames
+
+| Logo | Title | Type
+|------|-----|---|
+| <a href="https://github.com/Meldiron/forest-hike" target="_blank"><img height="52px" alt="Forest Hike" src="https://github.com/user-attachments/assets/1f86ca0e-2bbb-4386-8fa9-8c4abaa132de" /></a>  | [Forest Hike](https://github.com/Meldiron/forest-hike) | Visual memory training puzzle
+| <a href="https://github.com/Meldiron/quick-arrows" target="_blank"><img height="52px" alt="Forest Hike" src="https://github.com/user-attachments/assets/f268f0c4-fc67-47a2-b2f4-e36e70503c9b" /></a>  | [Quick Arrows](https://github.com/Meldiron/quick-arrows) | Reaction training puzzle
+
 ### 🥇 Honorable mentions
 
 - [🔗 Almost Linktree](https://github.com/Meldiron/almost-linktree) | [linktree.almostapps.eu](https://linktree.almostapps.eu/)
