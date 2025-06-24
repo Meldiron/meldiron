@@ -6,12 +6,13 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 
 ### 👀 Abut me
 
+- 💪 _Prove yourself impossible was just challenging_
 - 🔭 I work at [Appwrite](https://appwrite.io/)
-- 🌱 I learn [Go](https://go.dev/)
-- 👯 I actively contribute to [Odyc.js](https://odyc.dev/)
-- 📫 Reach me at `matejbaco2000@gmail.com`
-- ⚡ Fun fact: I like **light modes**
-- 🥴 Wierdest commit: [#7e674d6](https://github.com/appwrite/website/commit/7e674d6c59e97f29be0ac21ba84b3bd41718ffe0)
+- 🌱 I am learning [Go](https://go.dev/) language
+- 🤝 I actively contribute to [Odyc.js](https://odyc.dev/)
+- 💡 I love overthinking about user experience
+- 🙈 Not my proudest moment: [#7e674d6](https://github.com/appwrite/website/commit/7e674d6c59e97f29be0ac21ba84b3bd41718ffe0)
+- 📫 Leave me a message at [matejbaco.eu](https://matejbaco.eu/)
 
 <a href="https://medium.com/@matejbaco2000" target="_blank"><img alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/matejbaco" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://dev.to/meldiron" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>  <a href="https://twitter.com/_meldiron" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 </p>
