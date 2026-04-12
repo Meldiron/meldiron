@@ -1,0 +1,19 @@
+name: Update case studies
+on:
+ schedule:
+  - cron: '0 0 * * *'
+ workflow_dispatch:
+jobs:
+ update-readme-with-case-studies:
+  name: Update this repos README with latest case studies
+  runs-on: ubuntu-latest
+  steps:
+   - name: Checkout
+     uses: actions/checkout@v4
+   - name: Fetch and update case studies
+     run: node .github/scripts/update-case-studies.js
+   - name: Commit changes
+     run: |
+      git config --local user.email "action@github.com"
+      git config --local user.name "GitHub Action"
+      git diff --quiet README.md || (git add README.md && git commit -m "Update case studies from matejbaco.eu" && git push)

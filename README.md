@@ -17,19 +17,21 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 
 ### 📎 Case studies
 
+<!-- CASE-STUDIES:START -->
 | Logo | Title | Description |
 |------|-------|-------------|
 | <a href="https://matejbaco.eu/projects/keyds" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="KeyDS" src="https://matejbaco.eu/projects/keyds.svg" /></a> | [KeyDS](https://matejbaco.eu/projects/keyds) | Internal management and distribution platform for drop-shipping software keys. |
 | <a href="https://matejbaco.eu/projects/vibe-flags" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Vibe Flags" src="https://matejbaco.eu/projects/vibe-flags.svg" /></a> | [Vibe Flags](https://matejbaco.eu/projects/vibe-flags) | Feature flags for vibes. No server. No config. No build step. |
 | <a href="https://matejbaco.eu/projects/universal-prompt" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Universal Prompt" src="https://matejbaco.eu/projects/universal-prompt.svg" /></a> | [Universal Prompt](https://matejbaco.eu/projects/universal-prompt) | Write your prompt once. Get instant deep links to open it in ChatGPT, Claude, Gemini, and 11+ other platforms. |
 | <a href="https://matejbaco.eu/projects/appwrite-arena" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Appwrite Arena" src="https://matejbaco.eu/projects/appwrite-arena.svg" /></a> | [Appwrite Arena](https://matejbaco.eu/projects/appwrite-arena) | Compare AI models side by side with structured benchmarks covering coding, reasoning, and creative tasks - all focused on Appwrite. |
-| <a href="https://matejbaco.eu/projects/rdo-1337" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Rdo1337" src="https://matejbaco.eu/projects/rdo1337.png" /></a> | [Rdo1337](https://matejbaco.eu/projects/rdo-1337) | Personal website for Slovak professional e-sport player. |
+| <a href="https://matejbaco.eu/projects/rdo-1337" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Rdo1337 - Streamer platform" src="https://matejbaco.eu/projects/rdo1337.png" /></a> | [Rdo1337 - Streamer platform](https://matejbaco.eu/projects/rdo-1337) | Personal website for Slovak professional e-sport player. |
 | <a href="https://matejbaco.eu/projects/almost-moments" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Almost Moments" src="https://matejbaco.eu/projects/almost-moments.svg" /></a> | [Almost Moments](https://matejbaco.eu/projects/almost-moments) | Collect moments that almost slipped away. No apps, no signups, and for free. |
 | <a href="https://matejbaco.eu/projects/http-games" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="HTTP Games" src="https://matejbaco.eu/projects/http-games.png" /></a> | [HTTP Games](https://matejbaco.eu/projects/http-games) | Play games by sending REST API requests. |
 | <a href="https://matejbaco.eu/projects/almost-vault" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Almost Vault" src="https://matejbaco.eu/projects/almost-vault.png" /></a> | [Almost Vault](https://matejbaco.eu/projects/almost-vault) | Quickly share passwords and secrets with anyone. |
 | <a href="https://matejbaco.eu/projects/formbin" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="FormBin" src="https://matejbaco.eu/projects/formbin.png" /></a> | [FormBin](https://matejbaco.eu/projects/formbin) | Simple and powerful backend for your HTML forms. |
 | <a href="https://matejbaco.eu/projects/auth-ui" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Auth UI" src="https://matejbaco.eu/projects/auth-ui.png" /></a> | [Auth UI](https://matejbaco.eu/projects/auth-ui) | Fully customizable login flow for any applications. |
 | <a href="https://matejbaco.eu/projects/rewrite" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Rewrite_" src="https://matejbaco.eu/projects/rewrite.png" /></a> | [Rewrite_](https://matejbaco.eu/projects/rewrite) | Practice typing by rewriting books as you read them. |
+<!-- CASE-STUDIES:END -->
 
 ### 🏗️ My open source projects
 
