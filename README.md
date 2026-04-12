@@ -19,13 +19,13 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 
 | Logo | Title | Type
 |------|-----|---|
-| <a href="https://github.com/Meldiron/chessrunners" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Chess Runners" src="https://raw.githubusercontent.com/Meldiron/chessrunners/main/static/favicon.png" /></a> | [Chess Runners](https://github.com/Meldiron/chessrunners) | Board strategy game
+| 🔧 | [Chess Runners](https://github.com/Meldiron/chessrunners) | Board strategy game
 | <a href="https://github.com/Meldiron/tmstats" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="TMStats" src="https://raw.githubusercontent.com/Meldiron/tmstats/master/static/logo.svg" /></a> | [TMStats](https://github.com/Meldiron/tmstats) | Trackmania medal tracker
 | 🔧 | [OG Image Generator](https://github.com/Meldiron/almost-bannerbear) | Serverless function
 | <a href="https://github.com/Meldiron/http-games" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="HTTP Games" src="https://raw.githubusercontent.com/Meldiron/http-games/main/docs/public/logo-on-light.svg" /></a> | [HTTP Games](https://github.com/Meldiron/http-games) | HTTP-based game platform
 | <a href="https://github.com/Meldiron/rewrite" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Rewrite_" src="https://raw.githubusercontent.com/Meldiron/rewrite/main/static/favicon.png" /></a> | [Rewrite_](https://github.com/Meldiron/rewrite) | Typing practice app
 | <a href="https://github.com/Meldiron/life-in-skills" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Life in Skills" src="https://raw.githubusercontent.com/Meldiron/life-in-skills/main/static/logo.svg" /></a> | [Life in Skills](https://github.com/Meldiron/life-in-skills) | Gamified goals tracker
-| <a href="https://github.com/Meldiron/key-drop-shippinng" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="KeyDS" src="https://raw.githubusercontent.com/Meldiron/key-drop-shippinng/main/public/logo.svg" /></a> | [KeyDS](https://github.com/Meldiron/key-drop-shippinng) | Software key reseller
+| 🔧 | [KeyDS](https://github.com/Meldiron/key-drop-shippinng) | Software key reseller
 | 🔧 | [odyc.js](https://github.com/Meldiron/odyc) | JS game engine library
 | <a href="https://github.com/Meldiron/almost-puzzles" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Almost Puzzles" src="https://raw.githubusercontent.com/Meldiron/almost-puzzles/main/static/favicon.png" /></a> | [Almost Puzzles](https://github.com/Meldiron/almost-puzzles) | Gamified puzzle collection
 | <a href="https://github.com/Meldiron/mail-memo" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="MailMemo" src="https://raw.githubusercontent.com/Meldiron/mail-memo/main/static/logo.svg" /></a> | [MailMemo](https://github.com/Meldiron/mail-memo) | Email reminder service
@@ -55,14 +55,14 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 | <a href="https://github.com/Meldiron/almost-teuxdeux" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Almost TeuxDeux" src="https://raw.githubusercontent.com/Meldiron/almost-teuxdeux/main/static/favicon.png" /></a> | [Almost TeuxDeux](https://github.com/Meldiron/almost-teuxdeux) | To-do list app
 | <a href="https://github.com/Meldiron/almost-boop" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Almost Boop" src="https://raw.githubusercontent.com/Meldiron/almost-boop/master/static/favicon.png" /></a> | [Almost Boop](https://github.com/Meldiron/almost-boop) | Tic-tac-toe variant
 | 🔧 | [Star Battle Playground](https://github.com/Meldiron/starbattle) | Star battle puzzle
-| <a href="https://github.com/Meldiron/pujcsipeugeot" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Pujci Si Peugeot" src="https://raw.githubusercontent.com/Meldiron/pujcsipeugeot/main/static/peugeot.svg" /></a> | [Pujci Si Peugeot](https://github.com/Meldiron/pujcsipeugeot) | Car rental landing page
-| <a href="https://github.com/Meldiron/fake-casino" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Fake Casino" src="https://raw.githubusercontent.com/Meldiron/fake-casino/main/public/logo.svg" /></a> | [Fake Casino](https://github.com/Meldiron/fake-casino) | Solana casino platform
+| 🔧 | [Pujci Si Peugeot](https://github.com/Meldiron/pujcsipeugeot) | Car rental landing page
+| 🔧 | [Fake Casino](https://github.com/Meldiron/fake-casino) | Solana casino platform
 | 🔧 | [Can You Type](https://github.com/Meldiron/can-you-type) | Typing browser game
 | <a href="https://github.com/Meldiron/Revisibility" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Revisibility" src="https://raw.githubusercontent.com/Meldiron/Revisibility/main/icon.svg" /></a> | [Revisibility](https://github.com/Meldiron/Revisibility) | macOS backup app
 | <a href="https://github.com/Meldiron/color-thief" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Color Thief" src="https://raw.githubusercontent.com/Meldiron/color-thief/main/favicon.png" /></a> | [Color Thief](https://github.com/Meldiron/color-thief) | Math browser game
 | <a href="https://github.com/Meldiron/almost-tminusdaily" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Almost T-Minus Daily" src="https://raw.githubusercontent.com/Meldiron/almost-tminusdaily/main/static/favicon.png" /></a> | [Almost T-Minus Daily](https://github.com/Meldiron/almost-tminusdaily) | Daily email reminder
-| <a href="https://github.com/Meldiron/almost-tally" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Almost Tally" src="https://raw.githubusercontent.com/Meldiron/almost-tally/main/resources/icon.png" /></a> | [Almost Tally](https://github.com/Meldiron/almost-tally) | Tally counter mobile app
-| <a href="https://github.com/Meldiron/almost-archerio" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Almost Archerio" src="https://raw.githubusercontent.com/Meldiron/almost-archerio/main/static/favicon.png" /></a> | [Almost Archerio](https://github.com/Meldiron/almost-archerio) | Grid casino minigame
+| 🔧 | [Almost Tally](https://github.com/Meldiron/almost-tally) | Tally counter mobile app
+| 🔧 | [Almost Archerio](https://github.com/Meldiron/almost-archerio) | Grid casino minigame
 
 ### 📘 Technical articles
 
