@@ -8,9 +8,7 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 
 - 💪 _Prove yourself impossible was just challenging_
 - 🔭 I work at [Appwrite](https://appwrite.io/)
-- 🌱 I am learning [Go](https://go.dev/) language
-- 🤝 I actively contribute to [Odyc.js](https://odyc.dev/)
-- 💡 I love overthinking about user experience
+- 🌱 I am learning productivity with agent fleet
 - 🙈 Not my proudest moment: [#7e674d6](https://github.com/appwrite/website/commit/7e674d6c59e97f29be0ac21ba84b3bd41718ffe0)
 - 📫 Leave me a message at [matejbaco.eu](https://matejbaco.eu/)
 
