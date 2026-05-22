@@ -1,9 +1,5 @@
 <img src="https://github.com/Meldiron/meldiron/assets/19310830/01e38251-e0ec-4db3-835c-3dbcd1876791" />
 
-# Hey there 👋
-
-I am engineering lead from Czech Republic 🇨🇿<br />I love giving to open source community 🎁
-
 ### 👀 Abut me
 
 - 💪 _Prove yourself impossible was just challenging_
@@ -77,4 +73,8 @@ I am engineering lead from Czech Republic 🇨🇿<br />I love giving to open so
 ### 🔧 Technologies I know
 
 [![My Skills](https://skillicons.dev/icons?i=appwrite,html,css,sass,tailwind,js,ts,vue,svelte,angular,deno,nodejs,php,mysql,docker,go&perline=8)](https://matejbaco.eu/)
+
+
+> Matej "Meldiron" Bačo: Engineering lead from Czech Republic in love with everything open-source.
+
 
