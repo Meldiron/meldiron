@@ -2,7 +2,7 @@
 
 # Hey there 👋
 
-I am open-minded software engineer from Czech Republic 🇨🇿<br />I love giving to open source community 🎁
+I am engineering lead from Czech Republic 🇨🇿<br />I love giving to open source community 🎁
 
 ### 👀 Abut me
 
