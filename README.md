@@ -9,13 +9,12 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 - 💪 _Prove yourself impossible was just challenging_
 - 🔭 I work at [Appwrite](https://appwrite.io/)
 - 🌱 I am learning productivity with agent fleet
-- 🙈 Not my proudest moment: [#7e674d6](https://github.com/appwrite/website/commit/7e674d6c59e97f29be0ac21ba84b3bd41718ffe0)
 - 📫 Leave me a message at [matejbaco.eu](https://matejbaco.eu/)
 
 <a href="https://medium.com/@matejbaco2000" target="_blank"><img alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/matejbaco" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://dev.to/meldiron" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>  <a href="https://twitter.com/_meldiron" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 </p>
 
-### 📎 Case studies
+### 🥇 Best projects
 
 <!-- CASE-STUDIES:START -->
 | Logo | Title | Description |
@@ -33,34 +32,19 @@ I am open-minded software engineer from Czech Republic 🇨🇿<br />I love givi
 | <a href="https://matejbaco.eu/projects/rewrite" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Rewrite_" src="https://matejbaco.eu/projects/rewrite.png" /></a> | [Rewrite_](https://matejbaco.eu/projects/rewrite) | Practice typing by rewriting books as you read them. |
 <!-- CASE-STUDIES:END -->
 
-### 🏗️ My open source projects
+### 🥈 Other projects
 
 <a href="https://github.com/Meldiron/tmstats" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="TMStats" src="https://raw.githubusercontent.com/Meldiron/tmstats/master/static/logo.svg" /></a>
-<a href="https://github.com/Meldiron/http-games" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="HTTP Games" src="https://raw.githubusercontent.com/Meldiron/http-games/main/docs/public/logo-on-light.svg" /></a>
-<a href="https://github.com/Meldiron/rewrite" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Rewrite_" src="https://raw.githubusercontent.com/Meldiron/rewrite/main/static/favicon.png" /></a>
 <a href="https://github.com/Meldiron/life-in-skills" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Life in Skills" src="https://raw.githubusercontent.com/Meldiron/life-in-skills/main/static/logo.svg" /></a>
 <a href="https://github.com/Meldiron/mail-memo" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="MailMemo" src="https://raw.githubusercontent.com/Meldiron/mail-memo/main/static/logo.svg" /></a>
-<a href="https://github.com/Meldiron/almost-vault" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Almost Vault" src="https://raw.githubusercontent.com/Meldiron/almost-vault/main/site/public/icon.png" /></a>
-<a href="https://github.com/Meldiron/almost-moments" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Almost Moments" src="https://raw.githubusercontent.com/Meldiron/almost-moments/main/public/logo.svg" /></a>
 <a href="https://github.com/Meldiron/almost-gist" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Almost Gist" src="https://raw.githubusercontent.com/Meldiron/almost-gist/main/public/logo.png" /></a>
-<a href="https://github.com/Meldiron/authui" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Auth UI" src="https://raw.githubusercontent.com/Meldiron/authui/main/static/favicon.png" /></a>
-<a href="https://github.com/Meldiron/vibe-flags" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Vibe Flags" src="https://raw.githubusercontent.com/Meldiron/vibe-flags/main/docs/public/favicon.svg" /></a>
 <a href="https://github.com/Meldiron/rsguessr" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="RSGuessr" src="https://raw.githubusercontent.com/Meldiron/rsguessr/main/static/favicon.png" /></a>
 <a href="https://github.com/Meldiron/almost-typeracer" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Almost TypeRacer" src="https://raw.githubusercontent.com/Meldiron/almost-typeracer/main/static/favicon.svg" /></a>
-<a href="https://github.com/Meldiron/form-bin" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="FormBin" src="https://raw.githubusercontent.com/Meldiron/form-bin/main/static/logo.svg" /></a>
-<a href="https://github.com/Meldiron/focus-horizon" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Focus Horizon" src="https://raw.githubusercontent.com/Meldiron/focus-horizon/main/static/favicon.png" /></a>
 <a href="https://github.com/Meldiron/almost-polar-habits" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Polar Habits" src="https://raw.githubusercontent.com/Meldiron/almost-polar-habits/main/static/favicon.png" /></a>
 <a href="https://github.com/Meldiron/forest-hike" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Forest Hike" src="https://raw.githubusercontent.com/Meldiron/forest-hike/main/favicon.png" /></a>
-<a href="https://github.com/Meldiron/appwrite-arena" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Appwrite Arena" src="https://raw.githubusercontent.com/Meldiron/appwrite-arena/main/public/favicon.svg" /></a>
 <a href="https://github.com/Meldiron/quick-arrows" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Quick Arrows" src="https://raw.githubusercontent.com/Meldiron/quick-arrows/main/favicon.png" /></a>
-<a href="https://github.com/Meldiron/almost-wishlist" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Almost Wishlist" src="https://raw.githubusercontent.com/Meldiron/almost-wishlist/main/static/favicon.png" /></a>
-<a href="https://github.com/Meldiron/universal-prompt" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Universal Prompt" src="https://raw.githubusercontent.com/Meldiron/universal-prompt/main/public/favicon.svg" /></a>
-<a href="https://github.com/Meldiron/almost-bonza" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Almost Bonza" src="https://raw.githubusercontent.com/Meldiron/almost-bonza/main/static/logo.png" /></a>
-<a href="https://github.com/Meldiron/almost-diary" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Almost Diary" src="https://raw.githubusercontent.com/Meldiron/almost-diary/main/src/assets/logo.svg" /></a>
-<a href="https://github.com/Meldiron/rotation-puzzle-game" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Rotation Puzzle Game" src="https://raw.githubusercontent.com/Meldiron/rotation-puzzle-game/master/assets/favicon.jpg" /></a>
-<a href="https://github.com/Meldiron/fountain-of-youth" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Fountain of Youth" src="https://raw.githubusercontent.com/Meldiron/fountain-of-youth/main/static/favicon.png" /></a>
-<a href="https://github.com/Meldiron/Revisibility" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Revisibility" src="https://raw.githubusercontent.com/Meldiron/Revisibility/main/icon.svg" /></a>
 <a href="https://github.com/Meldiron/color-thief" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Color Thief" src="https://raw.githubusercontent.com/Meldiron/color-thief/main/favicon.png" /></a>
+<a href="https://github.com/Meldiron/almost-wishlist" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Almost Wishlist" src="https://raw.githubusercontent.com/Meldiron/almost-wishlist/main/static/favicon.png" /></a>
 
 ### 📘 Technical articles
 
