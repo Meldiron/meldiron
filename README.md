@@ -31,7 +31,6 @@
 
 ### 🥈 Other projects
 
-<a href="https://github.com/Meldiron/tmstats" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="TMStats" src="https://raw.githubusercontent.com/Meldiron/tmstats/master/static/logo.svg" /></a>
 <a href="https://github.com/Meldiron/life-in-skills" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Life in Skills" src="https://raw.githubusercontent.com/Meldiron/life-in-skills/main/static/logo.svg" /></a>
 <a href="https://github.com/Meldiron/mail-memo" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="MailMemo" src="https://raw.githubusercontent.com/Meldiron/mail-memo/main/static/logo.svg" /></a>
 <a href="https://github.com/Meldiron/almost-gist" target="_blank"><img width="52px" height="52px" style="object-fit: contain;" alt="Almost Gist" src="https://raw.githubusercontent.com/Meldiron/almost-gist/main/public/logo.png" /></a>
